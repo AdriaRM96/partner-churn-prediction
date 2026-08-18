@@ -1,0 +1,1001 @@
+partner_id,region,vertical,partner_tier,gtv_trend_3m,nps_score,nps_trend,engagement_score,days_since_last_contact,has_competitor_relationship,predicted_churn_probability,primary_risk_drivers,risk_flag
+partner_158,LATAM,Retail,Bronze,3.27,1,stable,9.1,74,1,0.991,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_136,EMEA,Tech,Silver,4.1,1,declining,5.3,111,0,0.989,"weak/declining NPS, long contact gap",🔴 High Risk
+partner_1,LATAM,Retail,Silver,-12.88,3,declining,0.0,106,0,0.9884,"declining GTV, weak/declining NPS, long contact gap",🔴 High Risk
+partner_893,EMEA,Manufacturing,Silver,-11.01,3,declining,0.0,90,1,0.9881,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_297,APAC,Retail,Silver,4.95,0,declining,5.2,67,0,0.9874,"weak/declining NPS, long contact gap",🔴 High Risk
+partner_857,LATAM,Retail,Silver,-1.81,2,declining,32.6,84,1,0.9865,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_724,APAC,Manufacturing,Bronze,14.33,2,stable,17.3,98,1,0.9831,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_784,LATAM,Retail,Bronze,9.89,2,declining,5.3,80,1,0.981,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_984,NA,Retail,Silver,-25.41,2,stable,17.0,94,1,0.9749,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_17,NA,Manufacturing,Bronze,2.45,3,declining,1.3,74,1,0.974,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_189,LATAM,Retail,Bronze,19.99,3,stable,31.4,91,1,0.9682,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_992,LATAM,Manufacturing,Silver,-28.43,4,declining,10.2,111,0,0.9546,"declining GTV, weak/declining NPS, long contact gap",🔴 High Risk
+partner_302,EMEA,Manufacturing,Silver,6.58,3,stable,18.9,82,1,0.953,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_924,NA,Tech,Silver,13.01,2,improving,13.9,90,1,0.9518,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_438,NA,Tech,Silver,4.85,2,declining,30.2,87,1,0.951,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_908,EMEA,Retail,Bronze,-17.36,4,declining,32.6,94,1,0.9498,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_975,NA,Retail,Silver,-6.31,1,declining,23.4,79,0,0.9493,"declining GTV, weak/declining NPS, long contact gap",🔴 High Risk
+partner_558,NA,Tech,Bronze,2.89,2,declining,42.2,105,1,0.9363,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_220,NA,Retail,Bronze,-5.37,2,stable,38.2,83,1,0.9331,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_356,NA,Retail,Silver,-14.23,4,improving,0.0,74,1,0.9315,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_645,LATAM,Retail,Bronze,-5.74,4,declining,19.2,34,1,0.9311,"declining GTV, weak/declining NPS, competitor relationship",🔴 High Risk
+partner_149,NA,Tech,Silver,5.37,4,declining,13.7,61,1,0.9243,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_476,NA,Tech,Bronze,9.04,2,declining,13.6,60,1,0.9233,"weak/declining NPS, competitor relationship",🔴 High Risk
+partner_73,APAC,Tech,Bronze,-11.41,4,declining,14.0,73,1,0.9213,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_900,NA,Retail,Bronze,-2.52,3,stable,30.7,70,1,0.9209,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_139,LATAM,Retail,Silver,4.08,4,declining,20.0,65,1,0.9158,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_201,LATAM,Manufacturing,Bronze,-10.38,2,declining,45.7,65,1,0.9112,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_450,LATAM,Retail,Silver,-16.38,2,stable,8.8,36,0,0.9049,"declining GTV, weak/declining NPS",🔴 High Risk
+partner_346,LATAM,Manufacturing,Bronze,-15.5,4,stable,21.4,57,1,0.9019,"declining GTV, weak/declining NPS, competitor relationship",🔴 High Risk
+partner_961,NA,Manufacturing,Silver,-1.72,3,declining,20.0,73,1,0.9018,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_391,LATAM,Services,Silver,17.73,4,declining,39.8,79,1,0.8984,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_390,APAC,Retail,Bronze,-2.67,3,declining,17.1,87,0,0.8977,"weak/declining NPS, long contact gap",🔴 High Risk
+partner_640,APAC,Manufacturing,Bronze,7.92,2,stable,30.4,50,0,0.8947,weak/declining NPS,🔴 High Risk
+partner_710,NA,Retail,Silver,-6.05,5,declining,20.9,49,1,0.8911,"declining GTV, weak/declining NPS, competitor relationship",🔴 High Risk
+partner_791,EMEA,Services,Silver,-0.85,3,declining,9.4,52,1,0.8888,"weak/declining NPS, competitor relationship",🔴 High Risk
+partner_993,LATAM,Tech,Bronze,22.18,4,declining,15.0,82,0,0.8857,"weak/declining NPS, long contact gap",🔴 High Risk
+partner_22,NA,Manufacturing,Bronze,-18.15,3,declining,34.1,105,0,0.8846,"declining GTV, weak/declining NPS, long contact gap",🔴 High Risk
+partner_997,LATAM,Retail,Silver,-4.85,4,declining,40.5,74,1,0.8833,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_16,EMEA,Retail,Silver,-1.12,4,stable,7.8,80,1,0.8801,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_243,EMEA,Tech,Bronze,-10.13,4,declining,35.2,63,1,0.8791,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_653,LATAM,Retail,Silver,3.92,5,declining,36.4,67,0,0.874,"weak/declining NPS, long contact gap",🔴 High Risk
+partner_41,NA,Retail,Bronze,-8.16,3,stable,13.8,99,0,0.874,"declining GTV, weak/declining NPS, long contact gap",🔴 High Risk
+partner_629,NA,Retail,Bronze,4.11,3,declining,15.6,61,1,0.8673,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_849,EMEA,Tech,Silver,-19.31,6,declining,1.2,76,1,0.8639,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_576,NA,Retail,Silver,-1.9,6,declining,13.7,60,1,0.8591,"weak/declining NPS, competitor relationship",🔴 High Risk
+partner_834,LATAM,Retail,Silver,-1.09,3,declining,54.1,78,0,0.8588,"weak/declining NPS, long contact gap",🔴 High Risk
+partner_859,NA,Retail,Silver,9.45,2,declining,38.1,59,0,0.8529,weak/declining NPS,🔴 High Risk
+partner_341,EMEA,Retail,Bronze,34.66,4,declining,12.5,61,1,0.8479,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_427,EMEA,Retail,Bronze,2.95,4,declining,31.6,80,1,0.8402,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_417,EMEA,Tech,Bronze,-10.96,4,declining,36.3,68,1,0.8387,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_122,LATAM,Retail,Bronze,-11.12,5,declining,34.8,78,0,0.833,"declining GTV, weak/declining NPS, long contact gap",🔴 High Risk
+partner_983,LATAM,Services,Bronze,-8.05,4,declining,20.2,74,1,0.8315,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_620,EMEA,Retail,Gold,-2.2,5,declining,29.7,82,1,0.8283,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_240,EMEA,Retail,Silver,-15.09,4,declining,10.1,40,1,0.826,"declining GTV, weak/declining NPS, competitor relationship",🔴 High Risk
+partner_296,APAC,Tech,Bronze,-8.73,3,stable,12.4,76,1,0.8244,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_647,EMEA,Retail,Silver,17.76,4,declining,45.8,73,0,0.8191,"weak/declining NPS, long contact gap",🔴 High Risk
+partner_344,NA,Manufacturing,Bronze,-9.55,4,declining,19.6,70,1,0.8168,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_861,LATAM,Manufacturing,Bronze,6.18,3,declining,26.8,86,0,0.8052,"weak/declining NPS, long contact gap",🔴 High Risk
+partner_749,LATAM,Tech,Bronze,-2.23,4,declining,21.2,68,1,0.8038,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_140,EMEA,Manufacturing,Silver,-4.02,5,stable,20.8,73,1,0.8035,"weak/declining NPS, long contact gap, competitor relationship",🔴 High Risk
+partner_483,NA,Manufacturing,Bronze,-12.51,4,declining,4.2,51,1,0.799,"declining GTV, weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_712,LATAM,Tech,Bronze,-8.64,2,stable,28.0,50,1,0.7979,"declining GTV, weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_575,APAC,Retail,Silver,24.08,4,declining,48.9,45,1,0.7963,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_209,EMEA,Retail,Bronze,2.91,3,declining,32.0,38,1,0.7885,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_440,LATAM,Services,Silver,3.95,4,declining,41.7,54,1,0.7855,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_83,APAC,Services,Silver,-18.21,1,improving,35.6,81,0,0.7841,"declining GTV, weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_603,APAC,Manufacturing,Bronze,-5.22,3,stable,36.7,60,1,0.7825,"declining GTV, weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_671,EMEA,Tech,Silver,13.6,1,stable,42.7,56,1,0.7796,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_320,APAC,Services,Gold,-15.02,3,declining,30.4,55,1,0.7794,"declining GTV, weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_750,APAC,Tech,Bronze,0.48,4,declining,21.5,62,0,0.7766,"weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_71,EMEA,Services,Gold,-7.95,4,improving,0.0,112,0,0.775,"declining GTV, weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_202,APAC,Manufacturing,Gold,11.37,4,improving,27.6,76,1,0.7719,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_894,EMEA,Retail,Silver,37.22,5,stable,14.1,62,1,0.769,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_392,EMEA,Services,Silver,6.52,3,declining,24.6,45,1,0.7685,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_5,EMEA,Manufacturing,Bronze,1.5,4,stable,17.4,71,0,0.7668,"weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_62,NA,Manufacturing,Bronze,-3.44,3,stable,0.0,65,1,0.7627,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_742,EMEA,Retail,Silver,8.37,5,declining,22.7,53,1,0.7627,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_58,NA,Retail,Bronze,14.43,5,declining,16.8,76,0,0.7613,"weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_945,NA,Services,Bronze,29.48,3,declining,44.1,81,1,0.7491,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_143,APAC,Services,Silver,-3.88,4,declining,14.0,51,1,0.7481,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_504,NA,Tech,Silver,14.24,3,declining,41.4,58,1,0.7421,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_889,EMEA,Services,Bronze,5.03,4,improving,11.3,79,1,0.7403,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_566,LATAM,Tech,Bronze,20.39,5,stable,34.1,74,1,0.738,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_685,LATAM,Retail,Bronze,-22.4,4,declining,14.2,50,0,0.7376,"declining GTV, weak/declining NPS",🟡 Medium Risk
+partner_471,NA,Services,Bronze,-17.02,4,stable,0.0,55,1,0.736,"declining GTV, weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_619,EMEA,Services,Silver,-18.47,7,declining,21.8,84,1,0.7355,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_318,LATAM,Retail,Silver,-9.38,6,declining,27.1,46,1,0.7353,"declining GTV, weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_887,NA,Retail,Bronze,-0.33,5,declining,19.4,67,1,0.7326,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_285,NA,Services,Bronze,-23.6,3,declining,28.9,61,1,0.7292,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_995,APAC,Tech,Silver,5.71,4,declining,43.2,88,1,0.729,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_707,LATAM,Retail,Gold,24.64,4,declining,25.8,61,1,0.7273,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_604,LATAM,Services,Silver,-20.9,5,declining,66.7,68,1,0.7164,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_674,LATAM,Retail,Bronze,-26.62,4,declining,41.3,76,1,0.711,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_652,APAC,Retail,Bronze,-16.27,3,stable,33.6,52,0,0.7092,"declining GTV, weak/declining NPS",🟡 Medium Risk
+partner_781,EMEA,Retail,Bronze,16.15,5,declining,28.0,66,1,0.7086,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_317,NA,Manufacturing,Bronze,3.27,3,declining,23.5,41,1,0.7067,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_577,APAC,Services,Silver,-0.07,5,stable,20.3,64,1,0.7003,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_190,EMEA,Manufacturing,Gold,-1.01,1,stable,56.4,71,1,0.7003,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_433,LATAM,Retail,Silver,1.76,4,improving,45.7,35,1,0.7002,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_626,NA,Manufacturing,Bronze,3.54,4,stable,42.8,54,1,0.6997,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_152,APAC,Services,Bronze,1.39,3,declining,43.4,74,0,0.6957,"weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_976,LATAM,Retail,Silver,-17.79,5,stable,19.6,47,0,0.6907,"declining GTV, weak/declining NPS",🟡 Medium Risk
+partner_234,NA,Manufacturing,Gold,0.67,5,declining,7.0,64,0,0.6855,"weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_979,NA,Manufacturing,Silver,7.12,5,declining,20.7,52,0,0.6846,weak/declining NPS,🟡 Medium Risk
+partner_195,EMEA,Services,Silver,-1.37,6,declining,16.6,58,1,0.6844,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_788,NA,Manufacturing,Silver,4.15,5,stable,15.9,53,1,0.6831,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_358,LATAM,Tech,Silver,-9.83,3,declining,42.9,85,0,0.6798,"declining GTV, weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_824,LATAM,Manufacturing,Gold,34.38,3,declining,52.0,72,0,0.6786,"weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_825,APAC,Manufacturing,Gold,-3.13,4,declining,32.9,46,1,0.6763,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_101,APAC,Retail,Silver,-21.3,6,stable,28.9,92,1,0.6743,"declining GTV, long contact gap, competitor relationship",🟡 Medium Risk
+partner_813,APAC,Manufacturing,Silver,20.68,4,declining,55.4,61,1,0.6733,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_955,APAC,Services,Silver,-19.92,5,declining,33.4,81,0,0.6731,"declining GTV, weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_7,LATAM,Services,Bronze,-15.1,2,stable,39.9,67,0,0.6711,"declining GTV, weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_137,APAC,Tech,Bronze,4.27,4,stable,34.0,73,1,0.6674,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_553,EMEA,Tech,Silver,-8.87,2,improving,20.6,76,0,0.6621,"declining GTV, weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_342,APAC,Services,Bronze,33.94,5,declining,48.7,88,1,0.6597,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_223,LATAM,Services,Bronze,-10.12,4,stable,30.8,79,0,0.6491,"declining GTV, weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_169,NA,Services,Bronze,-4.93,3,declining,23.3,62,0,0.6486,"weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_564,LATAM,Services,Silver,-20.94,5,declining,46.7,79,1,0.6481,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_394,LATAM,Retail,Bronze,10.8,2,declining,53.6,53,1,0.6464,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_278,NA,Retail,Bronze,19.92,4,declining,34.2,45,1,0.6454,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_465,NA,Manufacturing,Bronze,-14.04,4,improving,41.0,75,1,0.6357,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_951,NA,Services,Bronze,-6.45,3,improving,44.2,88,0,0.6337,"declining GTV, weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_783,NA,Retail,Silver,21.41,5,declining,41.1,78,1,0.6332,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_133,NA,Retail,Gold,-2.62,4,declining,23.6,52,0,0.6286,weak/declining NPS,🟡 Medium Risk
+partner_646,APAC,Tech,Gold,5.37,5,improving,18.0,70,1,0.6275,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_291,APAC,Tech,Gold,12.57,3,declining,51.2,59,1,0.6258,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_393,NA,Retail,Bronze,-7.31,3,declining,44.5,53,0,0.6224,"declining GTV, weak/declining NPS",🟡 Medium Risk
+partner_259,EMEA,Tech,Bronze,-34.92,4,declining,57.5,57,1,0.6167,"declining GTV, weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_952,EMEA,Retail,Silver,-32.59,3,declining,62.7,57,1,0.6155,"declining GTV, weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_901,NA,Manufacturing,Bronze,-12.69,6,declining,33.2,75,1,0.6146,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_744,EMEA,Services,Silver,-19.39,3,stable,5.6,31,0,0.613,"declining GTV, weak/declining NPS",🟡 Medium Risk
+partner_936,EMEA,Retail,Bronze,-3.85,6,declining,25.0,52,0,0.6102,weak/declining NPS,🟡 Medium Risk
+partner_205,EMEA,Retail,Bronze,9.24,5,stable,45.1,75,1,0.6031,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_276,NA,Tech,Bronze,-7.21,4,declining,48.7,72,1,0.6019,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_637,LATAM,Tech,Bronze,-11.59,5,declining,25.1,41,1,0.6017,"declining GTV, weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_920,NA,Services,Silver,-15.53,5,declining,26.6,59,0,0.5992,"declining GTV, weak/declining NPS",🟡 Medium Risk
+partner_277,NA,Retail,Silver,20.88,4,stable,44.1,72,1,0.5935,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_726,EMEA,Retail,Silver,1.96,6,declining,43.2,32,1,0.5901,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_42,APAC,Manufacturing,Silver,-13.26,4,declining,39.6,58,0,0.5841,"declining GTV, weak/declining NPS",🟡 Medium Risk
+partner_763,EMEA,Retail,Bronze,-2.37,6,declining,46.2,70,1,0.5833,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_473,EMEA,Retail,Silver,-8.44,5,stable,30.3,60,1,0.5782,"declining GTV, weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_719,LATAM,Manufacturing,Bronze,-5.68,3,declining,41.3,57,0,0.5725,"declining GTV, weak/declining NPS",🟡 Medium Risk
+partner_614,APAC,Tech,Silver,13.76,4,improving,46.6,87,0,0.5648,"weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_36,EMEA,Manufacturing,Silver,-4.84,3,declining,53.0,69,0,0.5633,"weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_779,LATAM,Tech,Bronze,16.45,3,declining,49.1,28,1,0.5628,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_573,NA,Manufacturing,Silver,-17.71,3,declining,50.5,72,0,0.5608,"declining GTV, weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_879,LATAM,Tech,Silver,45.03,5,improving,54.9,85,0,0.5595,"weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_793,NA,Retail,Silver,8.08,6,declining,4.0,50,0,0.5585,weak/declining NPS,🟡 Medium Risk
+partner_919,NA,Manufacturing,Bronze,2.38,5,declining,22.3,71,1,0.5581,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_585,APAC,Manufacturing,Bronze,-11.95,4,declining,53.8,47,1,0.5508,"declining GTV, weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_858,APAC,Retail,Bronze,-9.98,6,declining,32.9,35,1,0.5457,"declining GTV, weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_758,APAC,Services,Silver,-1.37,5,stable,20.3,73,1,0.5453,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_248,NA,Retail,Silver,41.72,5,improving,25.6,68,1,0.5389,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_403,LATAM,Services,Silver,-15.44,5,stable,5.6,53,0,0.538,"declining GTV, weak/declining NPS",🟡 Medium Risk
+partner_281,EMEA,Tech,Bronze,7.77,3,stable,36.7,58,1,0.536,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_29,EMEA,Manufacturing,Silver,-3.49,6,declining,48.1,63,1,0.5354,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_567,LATAM,Retail,Bronze,-11.45,4,stable,42.1,78,0,0.5294,"declining GTV, weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_521,APAC,Retail,Bronze,-6.24,3,declining,38.9,55,0,0.5265,"declining GTV, weak/declining NPS",🟡 Medium Risk
+partner_538,EMEA,Manufacturing,Bronze,0.82,5,stable,47.3,92,0,0.5225,"weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_864,NA,Tech,Bronze,1.1,4,declining,9.8,32,1,0.5225,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_524,LATAM,Services,Silver,4.04,4,declining,39.6,49,0,0.5201,weak/declining NPS,🟡 Medium Risk
+partner_107,NA,Retail,Silver,16.66,6,declining,20.9,39,1,0.5141,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_112,EMEA,Tech,Silver,-27.08,3,declining,27.9,39,0,0.5139,"declining GTV, weak/declining NPS",🟡 Medium Risk
+partner_64,LATAM,Manufacturing,Bronze,0.46,5,improving,20.9,58,1,0.5137,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_298,APAC,Retail,Bronze,51.16,5,improving,19.1,50,1,0.5124,"weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_460,LATAM,Tech,Silver,-5.93,4,declining,22.5,38,0,0.5119,"declining GTV, weak/declining NPS",🟡 Medium Risk
+partner_935,LATAM,Manufacturing,Silver,8.64,5,stable,26.5,67,0,0.5103,"weak/declining NPS, long contact gap",🟡 Medium Risk
+partner_478,LATAM,Services,Bronze,6.62,4,stable,27.4,60,0,0.504,weak/declining NPS,🟡 Medium Risk
+partner_174,APAC,Services,Bronze,-6.61,3,stable,35.6,42,1,0.5024,"declining GTV, weak/declining NPS, competitor relationship",🟡 Medium Risk
+partner_897,EMEA,Manufacturing,Gold,4.21,5,stable,27.8,81,1,0.5013,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_501,LATAM,Manufacturing,Bronze,7.32,7,declining,53.7,85,1,0.5011,"weak/declining NPS, long contact gap, competitor relationship",🟡 Medium Risk
+partner_528,APAC,Tech,Gold,3.25,6,stable,31.3,89,1,0.5007,"long contact gap, competitor relationship",🟡 Medium Risk
+partner_19,APAC,Retail,Silver,5.38,5,declining,9.8,26,0,0.4979,weak/declining NPS,🟢 Low Risk
+partner_579,APAC,Services,Bronze,8.38,4,stable,31.7,42,1,0.4948,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_711,APAC,Services,Gold,2.72,7,stable,8.7,100,0,0.4946,long contact gap,🟢 Low Risk
+partner_949,APAC,Retail,Gold,0.55,8,declining,10.1,61,1,0.4942,"weak/declining NPS, long contact gap, competitor relationship",🟢 Low Risk
+partner_683,EMEA,Manufacturing,Bronze,-6.92,6,stable,36.0,74,0,0.4848,"declining GTV, long contact gap",🟢 Low Risk
+partner_607,APAC,Services,Silver,5.29,5,stable,50.1,56,1,0.4842,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_638,LATAM,Services,Bronze,12.11,5,declining,49.2,46,1,0.4723,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_52,EMEA,Retail,Bronze,-7.67,4,declining,21.7,37,0,0.4716,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_238,LATAM,Tech,Bronze,12.37,4,declining,44.7,59,0,0.4693,weak/declining NPS,🟢 Low Risk
+partner_179,APAC,Retail,Bronze,-2.6,4,declining,23.8,53,0,0.4666,weak/declining NPS,🟢 Low Risk
+partner_367,LATAM,Retail,Bronze,-0.65,6,stable,46.3,99,0,0.4664,long contact gap,🟢 Low Risk
+partner_534,LATAM,Manufacturing,Bronze,-17.6,5,stable,49.4,54,1,0.4657,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_354,NA,Tech,Silver,-15.07,4,declining,47.3,25,0,0.4642,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_931,EMEA,Manufacturing,Silver,-10.01,4,stable,23.6,48,0,0.4632,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_702,NA,Services,Silver,-5.08,3,stable,44.9,63,1,0.4625,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🟢 Low Risk
+partner_790,LATAM,Retail,Bronze,16.84,6,declining,30.0,64,0,0.4612,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_998,EMEA,Tech,Bronze,1.83,5,declining,35.8,31,0,0.4561,weak/declining NPS,🟢 Low Risk
+partner_966,NA,Retail,Silver,-3.46,5,stable,37.9,70,0,0.4552,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_207,EMEA,Manufacturing,Silver,-16.6,5,declining,37.7,37,1,0.4521,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_256,LATAM,Services,Silver,-6.03,7,stable,28.8,44,1,0.4495,"declining GTV, competitor relationship",🟢 Low Risk
+partner_837,LATAM,Retail,Silver,14.12,6,declining,33.8,78,0,0.4485,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_806,EMEA,Manufacturing,Bronze,9.76,7,declining,40.4,54,1,0.4422,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_502,APAC,Services,Silver,-18.47,5,improving,36.0,52,1,0.437,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_616,LATAM,Retail,Bronze,-9.04,3,stable,53.0,51,0,0.4304,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_43,LATAM,Manufacturing,Silver,11.26,5,declining,43.7,67,0,0.4293,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_379,NA,Manufacturing,Bronze,4.51,5,declining,49.1,93,0,0.4281,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_982,APAC,Tech,Bronze,-11.66,5,declining,48.3,55,1,0.424,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_314,NA,Retail,Bronze,6.16,4,declining,18.8,25,1,0.4232,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_194,APAC,Services,Bronze,-4.82,5,declining,32.9,32,1,0.4188,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_208,LATAM,Tech,Bronze,17.8,5,declining,43.2,48,1,0.4158,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_746,NA,Manufacturing,Silver,20.19,3,stable,49.6,53,1,0.4152,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_350,EMEA,Retail,Bronze,-7.78,7,stable,45.5,64,1,0.4061,"declining GTV, long contact gap, competitor relationship",🟢 Low Risk
+partner_129,EMEA,Manufacturing,Bronze,-1.64,7,stable,24.1,75,0,0.3918,long contact gap,🟢 Low Risk
+partner_896,APAC,Retail,Bronze,-14.1,5,improving,48.8,67,0,0.3918,"declining GTV, weak/declining NPS, long contact gap",🟢 Low Risk
+partner_334,APAC,Services,Bronze,-17.48,7,improving,21.1,79,1,0.3917,"declining GTV, long contact gap, competitor relationship",🟢 Low Risk
+partner_214,APAC,Tech,Bronze,-2.3,8,stable,47.6,91,1,0.3914,"long contact gap, competitor relationship",🟢 Low Risk
+partner_729,NA,Retail,Bronze,3.83,4,declining,36.2,45,0,0.3911,weak/declining NPS,🟢 Low Risk
+partner_962,NA,Tech,Gold,3.29,3,improving,42.5,79,1,0.388,"weak/declining NPS, long contact gap, competitor relationship",🟢 Low Risk
+partner_943,EMEA,Tech,Silver,48.7,4,declining,37.6,63,0,0.3867,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_829,APAC,Services,Silver,0.68,4,improving,33.4,73,0,0.3837,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_634,NA,Manufacturing,Silver,2.39,5,declining,53.2,36,1,0.3786,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_799,LATAM,Manufacturing,Silver,-13.81,4,stable,43.3,47,0,0.3762,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_808,EMEA,Tech,Silver,-6.71,5,declining,36.1,49,0,0.3756,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_21,LATAM,Services,Silver,-11.14,6,declining,49.7,49,0,0.3737,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_428,APAC,Retail,Silver,-8.98,6,improving,51.9,58,1,0.3729,"declining GTV, competitor relationship",🟢 Low Risk
+partner_295,APAC,Tech,Bronze,7.56,7,declining,37.2,52,1,0.3729,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_810,APAC,Retail,Bronze,14.43,5,improving,76.5,51,1,0.3719,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_487,NA,Services,Silver,9.53,6,stable,44.6,81,1,0.3715,"long contact gap, competitor relationship",🟢 Low Risk
+partner_755,LATAM,Tech,Gold,11.63,3,declining,51.9,0,1,0.3708,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_408,APAC,Retail,Bronze,42.64,3,stable,51.8,69,0,0.3683,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_947,LATAM,Retail,Bronze,-9.66,5,stable,44.0,75,1,0.3673,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🟢 Low Risk
+partner_423,EMEA,Tech,Silver,0.75,4,improving,25.6,58,0,0.3656,weak/declining NPS,🟢 Low Risk
+partner_768,EMEA,Retail,Silver,-25.01,6,declining,20.6,20,0,0.3636,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_253,NA,Retail,Bronze,-4.27,7,stable,31.8,73,1,0.3625,"long contact gap, competitor relationship",🟢 Low Risk
+partner_777,LATAM,Manufacturing,Silver,9.01,5,stable,45.1,56,0,0.362,weak/declining NPS,🟢 Low Risk
+partner_910,EMEA,Services,Silver,3.94,4,declining,40.7,67,0,0.3512,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_404,EMEA,Tech,Gold,-3.57,3,stable,29.9,49,0,0.3477,weak/declining NPS,🟢 Low Risk
+partner_33,NA,Tech,Bronze,4.47,6,stable,13.7,41,1,0.3446,competitor relationship,🟢 Low Risk
+partner_288,NA,Tech,Silver,19.54,6,stable,40.6,91,0,0.3404,long contact gap,🟢 Low Risk
+partner_532,LATAM,Retail,Silver,-22.75,5,stable,29.0,45,0,0.3401,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_444,EMEA,Retail,Silver,21.39,2,improving,53.4,56,0,0.3345,weak/declining NPS,🟢 Low Risk
+partner_845,EMEA,Retail,Bronze,6.28,5,improving,41.4,84,0,0.3328,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_371,LATAM,Retail,Bronze,5.65,5,stable,61.4,41,1,0.3316,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_987,NA,Retail,Bronze,-34.29,4,stable,50.8,70,0,0.3316,"declining GTV, weak/declining NPS, long contact gap",🟢 Low Risk
+partner_422,EMEA,Tech,Bronze,15.89,6,improving,24.2,29,1,0.3199,competitor relationship,🟢 Low Risk
+partner_322,NA,Tech,Bronze,1.97,6,stable,47.8,64,1,0.3184,"long contact gap, competitor relationship",🟢 Low Risk
+partner_115,EMEA,Services,Bronze,0.27,5,stable,0.5,57,0,0.3177,weak/declining NPS,🟢 Low Risk
+partner_446,LATAM,Manufacturing,Silver,11.05,4,improving,48.9,37,1,0.316,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_173,EMEA,Retail,Silver,-13.14,7,stable,25.6,63,1,0.3139,"declining GTV, long contact gap, competitor relationship",🟢 Low Risk
+partner_484,NA,Retail,Bronze,-5.05,5,stable,64.4,77,0,0.3136,"declining GTV, weak/declining NPS, long contact gap",🟢 Low Risk
+partner_459,LATAM,Services,Bronze,25.56,5,declining,26.8,57,0,0.3128,weak/declining NPS,🟢 Low Risk
+partner_611,NA,Retail,Gold,-8.46,6,improving,40.9,84,1,0.309,"declining GTV, long contact gap, competitor relationship",🟢 Low Risk
+partner_911,LATAM,Retail,Silver,-6.25,6,stable,43.9,75,0,0.3078,"declining GTV, long contact gap",🟢 Low Risk
+partner_310,EMEA,Services,Gold,-0.47,5,stable,31.2,67,1,0.305,"weak/declining NPS, long contact gap, competitor relationship",🟢 Low Risk
+partner_927,EMEA,Tech,Silver,-2.67,6,declining,29.7,68,0,0.3017,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_482,EMEA,Retail,Bronze,-9.47,6,improving,36.1,30,0,0.3003,declining GTV,🟢 Low Risk
+partner_110,APAC,Retail,Bronze,-1.17,5,stable,48.2,60,1,0.2951,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_35,NA,Tech,Bronze,7.91,7,declining,33.2,89,0,0.2949,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_514,EMEA,Manufacturing,Bronze,5.65,4,improving,29.9,51,0,0.2948,weak/declining NPS,🟢 Low Risk
+partner_204,EMEA,Manufacturing,Bronze,0.66,5,declining,34.6,33,0,0.291,weak/declining NPS,🟢 Low Risk
+partner_617,LATAM,Retail,Bronze,-12.32,5,stable,44.9,22,1,0.2896,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_650,EMEA,Services,Silver,-9.13,6,declining,42.5,33,1,0.2887,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_530,NA,Retail,Silver,17.49,6,stable,31.0,30,1,0.2875,competitor relationship,🟢 Low Risk
+partner_535,EMEA,Retail,Gold,4.65,4,improving,33.6,54,1,0.2869,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_756,EMEA,Manufacturing,Silver,29.48,6,declining,42.0,35,1,0.2867,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_262,APAC,Tech,Gold,-9.14,5,declining,41.5,64,0,0.2805,"declining GTV, weak/declining NPS, long contact gap",🟢 Low Risk
+partner_221,NA,Retail,Bronze,18.77,5,declining,42.7,62,0,0.28,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_244,NA,Retail,Bronze,1.23,6,stable,35.6,40,1,0.2787,competitor relationship,🟢 Low Risk
+partner_958,NA,Retail,Bronze,-19.83,4,stable,30.0,24,1,0.2761,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_751,EMEA,Manufacturing,Bronze,-0.98,4,improving,14.0,10,1,0.2722,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_705,EMEA,Tech,Silver,-2.43,4,declining,36.2,33,0,0.2718,weak/declining NPS,🟢 Low Risk
+partner_429,EMEA,Services,Silver,2.65,5,stable,34.1,57,1,0.2714,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_559,NA,Manufacturing,Bronze,-5.3,4,stable,66.9,46,0,0.2701,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_526,NA,Retail,Bronze,-10.18,4,declining,37.1,31,1,0.267,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_469,EMEA,Manufacturing,Silver,-13.98,5,declining,60.1,0,1,0.2658,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_794,EMEA,Manufacturing,Gold,-0.07,6,declining,41.7,66,0,0.2642,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_124,NA,Retail,Bronze,18.33,5,stable,48.8,64,0,0.264,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_776,APAC,Tech,Bronze,6.43,3,stable,43.9,67,0,0.2626,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_65,LATAM,Tech,Bronze,2.72,5,declining,37.0,38,0,0.2609,weak/declining NPS,🟢 Low Risk
+partner_597,LATAM,Retail,Bronze,-0.07,6,stable,37.4,38,1,0.2607,competitor relationship,🟢 Low Risk
+partner_415,EMEA,Retail,Bronze,-5.15,5,declining,42.5,52,0,0.2606,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_581,NA,Services,Bronze,-6.08,4,stable,32.7,52,1,0.258,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_627,LATAM,Tech,Silver,-6.67,5,declining,72.1,52,1,0.2578,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_116,APAC,Retail,Gold,-20.25,4,improving,40.6,15,1,0.2575,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_545,EMEA,Tech,Silver,-1.88,4,improving,21.4,56,0,0.2568,weak/declining NPS,🟢 Low Risk
+partner_421,LATAM,Manufacturing,Bronze,1.77,5,stable,40.4,49,0,0.2547,weak/declining NPS,🟢 Low Risk
+partner_128,EMEA,Manufacturing,Bronze,-1.41,6,declining,55.7,36,0,0.2541,weak/declining NPS,🟢 Low Risk
+partner_883,APAC,Tech,Silver,15.99,6,stable,45.8,74,0,0.2529,long contact gap,🟢 Low Risk
+partner_425,LATAM,Tech,Gold,21.83,6,declining,50.4,82,0,0.2527,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_155,EMEA,Tech,Silver,0.46,5,stable,31.5,47,1,0.2524,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_835,LATAM,Retail,Silver,17.74,6,stable,28.2,55,0,0.2523,engagement decline,🟢 Low Risk
+partner_95,NA,Manufacturing,Gold,8.83,4,stable,54.8,64,1,0.252,"weak/declining NPS, long contact gap, competitor relationship",🟢 Low Risk
+partner_648,NA,Services,Silver,-10.26,4,improving,35.5,60,0,0.2493,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_395,EMEA,Services,Silver,-21.25,6,declining,43.3,69,0,0.2489,"declining GTV, weak/declining NPS, long contact gap",🟢 Low Risk
+partner_892,APAC,Services,Gold,-1.16,6,stable,29.3,60,1,0.2486,competitor relationship,🟢 Low Risk
+partner_977,NA,Tech,Silver,-10.28,4,stable,59.1,45,0,0.2479,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_24,APAC,Tech,Bronze,-19.59,5,declining,35.4,46,0,0.2461,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_233,APAC,Retail,Bronze,0.77,6,improving,45.9,45,1,0.2453,competitor relationship,🟢 Low Risk
+partner_162,APAC,Manufacturing,Bronze,-12.74,4,stable,48.2,45,0,0.2425,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_74,EMEA,Services,Gold,-5.17,6,improving,33.8,65,1,0.2407,"declining GTV, long contact gap, competitor relationship",🟢 Low Risk
+partner_844,NA,Services,Bronze,7.49,5,declining,43.1,44,1,0.2397,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_822,NA,Tech,Silver,-10.94,6,stable,23.8,38,0,0.2366,declining GTV,🟢 Low Risk
+partner_86,EMEA,Manufacturing,Bronze,-3.93,7,improving,37.1,49,1,0.2311,competitor relationship,🟢 Low Risk
+partner_113,NA,Manufacturing,Bronze,-1.11,4,stable,46.6,57,0,0.2311,weak/declining NPS,🟢 Low Risk
+partner_718,EMEA,Manufacturing,Gold,19.45,6,declining,50.9,73,0,0.2311,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_3,APAC,Retail,Gold,8.71,6,stable,23.6,48,0,0.2272,engagement decline,🟢 Low Risk
+partner_570,NA,Tech,Gold,14.42,6,declining,25.9,71,0,0.2265,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_985,EMEA,Manufacturing,Bronze,-12.52,5,declining,28.8,33,0,0.2261,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_327,APAC,Tech,Bronze,16.27,6,stable,27.5,55,0,0.2234,engagement decline,🟢 Low Risk
+partner_753,EMEA,Services,Silver,3.64,4,declining,56.1,52,0,0.2201,weak/declining NPS,🟢 Low Risk
+partner_151,APAC,Retail,Silver,-0.5,7,stable,35.5,64,0,0.2185,long contact gap,🟢 Low Risk
+partner_490,NA,Tech,Silver,15.12,6,declining,43.5,22,1,0.2171,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_623,APAC,Services,Bronze,11.39,6,improving,18.8,89,0,0.2165,long contact gap,🟢 Low Risk
+partner_743,APAC,Retail,Bronze,5.35,5,improving,42.5,66,0,0.2154,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_537,NA,Services,Silver,-10.74,6,stable,31.9,74,1,0.215,"declining GTV, long contact gap, competitor relationship",🟢 Low Risk
+partner_187,NA,Tech,Silver,-6.92,6,declining,43.5,49,0,0.2143,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_231,EMEA,Retail,Bronze,0.8,5,stable,40.2,62,1,0.2135,"weak/declining NPS, long contact gap, competitor relationship",🟢 Low Risk
+partner_309,EMEA,Retail,Silver,2.98,5,declining,58.7,59,0,0.2135,weak/declining NPS,🟢 Low Risk
+partner_664,EMEA,Retail,Bronze,-25.99,4,stable,29.3,36,0,0.2062,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_263,NA,Tech,Bronze,-3.22,5,stable,41.7,59,0,0.2026,weak/declining NPS,🟢 Low Risk
+partner_485,EMEA,Manufacturing,Silver,-8.29,6,stable,20.3,50,0,0.199,declining GTV,🟢 Low Risk
+partner_843,NA,Retail,Bronze,-4.13,6,improving,47.0,59,1,0.1985,competitor relationship,🟢 Low Risk
+partner_805,EMEA,Manufacturing,Bronze,15.68,5,improving,42.5,79,0,0.1982,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_148,NA,Services,Gold,-3.74,6,stable,27.7,56,1,0.1976,competitor relationship,🟢 Low Risk
+partner_591,APAC,Retail,Silver,3.26,5,improving,49.9,43,0,0.1965,weak/declining NPS,🟢 Low Risk
+partner_135,NA,Services,Silver,0.28,4,stable,44.1,55,0,0.1961,weak/declining NPS,🟢 Low Risk
+partner_828,EMEA,Tech,Bronze,15.49,5,stable,57.1,72,1,0.1945,"weak/declining NPS, long contact gap, competitor relationship",🟢 Low Risk
+partner_716,EMEA,Services,Bronze,10.54,4,stable,43.6,72,0,0.1935,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_661,EMEA,Retail,Silver,5.54,6,declining,49.3,32,0,0.1933,weak/declining NPS,🟢 Low Risk
+partner_797,EMEA,Manufacturing,Silver,5.65,5,declining,50.1,20,1,0.1918,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_741,EMEA,Retail,Bronze,44.49,6,declining,45.2,45,1,0.1911,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_491,LATAM,Retail,Gold,42.12,5,stable,38.9,43,0,0.1877,weak/declining NPS,🟢 Low Risk
+partner_80,LATAM,Tech,Bronze,-7.31,6,improving,37.6,58,0,0.1865,declining GTV,🟢 Low Risk
+partner_803,APAC,Retail,Bronze,-29.62,7,stable,23.8,29,0,0.186,declining GTV,🟢 Low Risk
+partner_315,NA,Retail,Bronze,6.08,6,declining,47.3,34,0,0.1837,weak/declining NPS,🟢 Low Risk
+partner_168,APAC,Tech,Bronze,-3.3,6,declining,47.8,45,1,0.1799,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_443,LATAM,Retail,Bronze,3.08,6,improving,63.5,84,1,0.1751,"long contact gap, competitor relationship",🟢 Low Risk
+partner_109,EMEA,Services,Bronze,0.45,4,improving,22.8,42,1,0.1747,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_289,NA,Tech,Bronze,-15.71,7,declining,47.5,54,0,0.1721,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_809,NA,Tech,Bronze,-18.86,5,declining,50.8,80,0,0.1717,"declining GTV, weak/declining NPS, long contact gap",🟢 Low Risk
+partner_66,NA,Services,Gold,1.07,5,declining,40.6,70,0,0.1716,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_903,EMEA,Services,Bronze,6.1,6,stable,27.6,52,1,0.1696,competitor relationship,🟢 Low Risk
+partner_555,EMEA,Retail,Bronze,-2.52,7,declining,23.6,51,0,0.1658,weak/declining NPS,🟢 Low Risk
+partner_132,APAC,Tech,Silver,17.66,8,stable,54.6,73,1,0.1619,"long contact gap, competitor relationship",🟢 Low Risk
+partner_613,APAC,Services,Bronze,2.99,4,improving,8.5,28,0,0.1618,weak/declining NPS,🟢 Low Risk
+partner_349,NA,Tech,Bronze,0.58,6,declining,49.2,56,0,0.1599,weak/declining NPS,🟢 Low Risk
+partner_506,LATAM,Tech,Bronze,-1.48,6,declining,56.4,58,1,0.1597,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_147,NA,Manufacturing,Bronze,-4.39,6,declining,51.9,36,1,0.1596,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_550,NA,Retail,Bronze,36.43,5,declining,67.4,80,0,0.1588,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_400,NA,Tech,Silver,16.04,7,declining,26.3,10,1,0.1588,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_938,EMEA,Manufacturing,Bronze,7.39,5,improving,31.7,76,0,0.1561,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_360,NA,Retail,Bronze,19.33,4,stable,36.3,0,1,0.1539,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_518,LATAM,Services,Bronze,-12.88,4,declining,71.6,26,1,0.1529,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_180,LATAM,Retail,Gold,23.07,5,stable,57.5,64,1,0.1528,"weak/declining NPS, long contact gap, competitor relationship",🟢 Low Risk
+partner_631,APAC,Tech,Bronze,-5.87,6,stable,43.4,57,0,0.1525,declining GTV,🟢 Low Risk
+partner_340,APAC,Tech,Bronze,8.68,4,improving,42.7,45,0,0.15,weak/declining NPS,🟢 Low Risk
+partner_307,NA,Manufacturing,Silver,-3.29,5,stable,41.1,50,0,0.1489,weak/declining NPS,🟢 Low Risk
+partner_402,APAC,Retail,Silver,19.05,6,stable,43.3,16,1,0.1468,competitor relationship,🟢 Low Risk
+partner_84,EMEA,Services,Bronze,-22.89,6,stable,37.3,73,0,0.1449,"declining GTV, long contact gap",🟢 Low Risk
+partner_449,EMEA,Manufacturing,Silver,-22.83,7,declining,36.1,45,0,0.1446,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_856,NA,Services,Gold,1.01,4,stable,42.4,61,0,0.1443,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_193,EMEA,Services,Silver,10.45,6,stable,39.0,58,0,0.1396,engagement decline,🟢 Low Risk
+partner_999,APAC,Services,Gold,49.12,8,stable,40.4,66,1,0.1385,"long contact gap, competitor relationship",🟢 Low Risk
+partner_377,APAC,Manufacturing,Gold,2.16,6,stable,51.5,72,0,0.1373,long contact gap,🟢 Low Risk
+partner_851,EMEA,Retail,Bronze,8.26,7,stable,21.3,58,0,0.136,engagement decline,🟢 Low Risk
+partner_698,NA,Services,Bronze,44.65,5,stable,44.8,58,0,0.1358,weak/declining NPS,🟢 Low Risk
+partner_108,EMEA,Tech,Gold,-1.19,6,declining,27.3,30,0,0.1357,weak/declining NPS,🟢 Low Risk
+partner_934,LATAM,Services,Gold,-9.69,3,improving,47.8,53,0,0.1355,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_336,LATAM,Services,Silver,1.6,5,stable,38.7,24,0,0.1332,weak/declining NPS,🟢 Low Risk
+partner_212,NA,Services,Bronze,-0.17,6,stable,50.7,40,1,0.133,competitor relationship,🟢 Low Risk
+partner_970,EMEA,Tech,Bronze,27.29,4,declining,39.7,14,0,0.1326,weak/declining NPS,🟢 Low Risk
+partner_328,NA,Manufacturing,Bronze,-19.44,5,declining,69.0,39,0,0.1286,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_842,LATAM,Manufacturing,Bronze,17.98,8,stable,30.7,51,0,0.1286,engagement decline,🟢 Low Risk
+partner_13,LATAM,Tech,Bronze,8.03,6,stable,63.9,35,1,0.1273,competitor relationship,🟢 Low Risk
+partner_378,NA,Services,Silver,9.33,5,declining,44.0,50,0,0.127,weak/declining NPS,🟢 Low Risk
+partner_14,APAC,Services,Bronze,16.13,3,improving,22.8,41,0,0.127,weak/declining NPS,🟢 Low Risk
+partner_249,NA,Services,Bronze,-2.12,5,declining,59.9,56,1,0.1249,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_811,EMEA,Retail,Bronze,-3.84,5,stable,66.5,34,1,0.124,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_8,LATAM,Tech,Bronze,-10.52,8,stable,65.8,58,1,0.1239,"declining GTV, competitor relationship",🟢 Low Risk
+partner_644,EMEA,Retail,Gold,-8.14,4,stable,41.4,33,0,0.1239,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_252,APAC,Retail,Silver,-3.38,8,declining,51.1,26,0,0.1212,weak/declining NPS,🟢 Low Risk
+partner_812,EMEA,Tech,Gold,2.97,3,declining,59.9,47,0,0.121,weak/declining NPS,🟢 Low Risk
+partner_39,EMEA,Tech,Silver,11.62,7,stable,48.5,26,1,0.1203,competitor relationship,🟢 Low Risk
+partner_798,EMEA,Retail,Bronze,-13.53,6,declining,39.1,31,0,0.1191,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_120,LATAM,Services,Bronze,32.61,3,stable,46.2,42,0,0.1184,weak/declining NPS,🟢 Low Risk
+partner_146,EMEA,Tech,Gold,1.27,7,declining,58.0,32,1,0.1184,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_605,APAC,Retail,Bronze,-6.47,5,stable,49.5,21,0,0.1182,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_735,EMEA,Services,Bronze,26.48,3,stable,32.9,19,0,0.1181,weak/declining NPS,🟢 Low Risk
+partner_216,LATAM,Tech,Bronze,-8.31,5,declining,42.0,8,0,0.1176,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_87,LATAM,Services,Bronze,-24.82,8,declining,42.0,58,1,0.1171,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_802,NA,Manufacturing,Bronze,-7.27,7,stable,24.0,26,0,0.1164,declining GTV,🟢 Low Risk
+partner_804,NA,Manufacturing,Silver,-8.65,4,stable,45.6,44,0,0.1159,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_713,APAC,Services,Bronze,-5.97,5,improving,42.7,32,1,0.1155,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_293,APAC,Manufacturing,Silver,6.89,4,declining,37.8,0,0,0.1139,weak/declining NPS,🟢 Low Risk
+partner_493,LATAM,Manufacturing,Bronze,4.97,5,stable,64.0,15,1,0.1131,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_27,NA,Services,Silver,17.34,5,declining,46.6,46,0,0.1129,weak/declining NPS,🟢 Low Risk
+partner_690,NA,Tech,Silver,-8.75,6,stable,34.0,63,0,0.1114,"declining GTV, long contact gap",🟢 Low Risk
+partner_498,LATAM,Manufacturing,Bronze,0.97,5,improving,64.4,56,0,0.1112,weak/declining NPS,🟢 Low Risk
+partner_313,EMEA,Manufacturing,Bronze,-8.83,6,stable,72.2,63,0,0.1109,"declining GTV, long contact gap",🟢 Low Risk
+partner_40,LATAM,Retail,Silver,2.24,7,declining,49.6,21,0,0.1078,weak/declining NPS,🟢 Low Risk
+partner_913,APAC,Services,Silver,-10.98,5,stable,64.1,71,0,0.1077,"declining GTV, weak/declining NPS, long contact gap",🟢 Low Risk
+partner_333,LATAM,Tech,Silver,-17.82,5,stable,62.6,35,0,0.1067,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_904,NA,Retail,Gold,-15.61,5,declining,63.1,45,0,0.1065,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_821,EMEA,Services,Bronze,-12.27,5,declining,53.7,34,0,0.1065,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_590,EMEA,Retail,Bronze,3.73,5,improving,45.2,13,0,0.1062,weak/declining NPS,🟢 Low Risk
+partner_940,EMEA,Retail,Bronze,-17.34,7,stable,34.9,49,0,0.1058,declining GTV,🟢 Low Risk
+partner_103,EMEA,Services,Silver,-7.02,5,improving,46.9,34,1,0.1057,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_69,EMEA,Retail,Bronze,27.03,7,declining,59.6,23,1,0.1052,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_183,NA,Retail,Silver,-4.3,5,stable,44.6,13,0,0.1047,weak/declining NPS,🟢 Low Risk
+partner_660,NA,Retail,Bronze,2.79,3,stable,67.6,20,0,0.1047,weak/declining NPS,🟢 Low Risk
+partner_852,EMEA,Services,Bronze,8.28,5,stable,46.4,40,0,0.1035,weak/declining NPS,🟢 Low Risk
+partner_472,NA,Retail,Gold,8.0,6,declining,36.3,52,0,0.1024,weak/declining NPS,🟢 Low Risk
+partner_830,EMEA,Tech,Silver,12.47,8,declining,41.8,21,0,0.1023,weak/declining NPS,🟢 Low Risk
+partner_79,NA,Manufacturing,Bronze,-9.36,5,declining,54.5,34,0,0.1009,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_552,EMEA,Tech,Bronze,4.8,7,improving,58.8,69,0,0.1008,long contact gap,🟢 Low Risk
+partner_547,NA,Retail,Gold,3.7,6,declining,26.4,24,0,0.0992,weak/declining NPS,🟢 Low Risk
+partner_598,LATAM,Retail,Bronze,-13.42,5,improving,54.4,51,0,0.0987,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_871,LATAM,Tech,Silver,-0.74,7,improving,40.2,69,0,0.0986,long contact gap,🟢 Low Risk
+partner_353,NA,Retail,Bronze,6.1,6,declining,42.0,32,0,0.0985,weak/declining NPS,🟢 Low Risk
+partner_495,LATAM,Tech,Gold,5.17,6,stable,58.9,60,1,0.0985,competitor relationship,🟢 Low Risk
+partner_643,EMEA,Tech,Silver,13.51,5,stable,50.5,41,0,0.0972,weak/declining NPS,🟢 Low Risk
+partner_651,NA,Retail,Gold,-13.92,6,declining,68.6,62,1,0.0968,"declining GTV, weak/declining NPS, long contact gap, competitor relationship",🟢 Low Risk
+partner_515,NA,Services,Bronze,11.77,6,declining,33.7,36,0,0.0968,weak/declining NPS,🟢 Low Risk
+partner_850,APAC,Services,Bronze,5.59,6,declining,43.1,13,0,0.0966,weak/declining NPS,🟢 Low Risk
+partner_929,NA,Retail,Bronze,-13.94,5,stable,69.2,37,0,0.0963,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_926,EMEA,Retail,Silver,-6.84,5,stable,60.4,44,0,0.0961,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_217,EMEA,Tech,Bronze,-12.94,5,stable,49.6,41,0,0.0957,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_477,NA,Tech,Bronze,3.24,5,stable,38.3,9,1,0.0954,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_942,APAC,Tech,Bronze,7.95,5,stable,56.4,43,0,0.0948,weak/declining NPS,🟢 Low Risk
+partner_831,LATAM,Tech,Bronze,0.53,9,improving,40.7,65,0,0.0943,long contact gap,🟢 Low Risk
+partner_533,NA,Manufacturing,Silver,-5.21,5,declining,57.0,9,0,0.0937,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_862,LATAM,Services,Silver,-9.3,5,declining,78.4,33,1,0.0934,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_725,EMEA,Tech,Bronze,22.14,4,stable,70.3,71,1,0.0933,"weak/declining NPS, long contact gap, competitor relationship",🟢 Low Risk
+partner_229,LATAM,Services,Bronze,-13.96,4,stable,36.8,0,0,0.0923,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_270,EMEA,Tech,Gold,0.82,3,stable,64.9,37,0,0.0912,weak/declining NPS,🟢 Low Risk
+partner_319,EMEA,Manufacturing,Bronze,0.25,8,improving,58.9,63,1,0.0901,"long contact gap, competitor relationship",🟢 Low Risk
+partner_268,EMEA,Services,Silver,-16.69,5,declining,73.4,74,0,0.09,"declining GTV, weak/declining NPS, long contact gap",🟢 Low Risk
+partner_885,EMEA,Tech,Silver,2.19,7,stable,39.7,25,1,0.0897,competitor relationship,🟢 Low Risk
+partner_563,APAC,Services,Silver,22.84,5,declining,65.9,51,1,0.0896,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_848,LATAM,Manufacturing,Bronze,21.13,5,stable,38.0,34,0,0.0893,weak/declining NPS,🟢 Low Risk
+partner_375,EMEA,Services,Bronze,29.87,6,declining,53.2,46,0,0.0893,weak/declining NPS,🟢 Low Risk
+partner_789,LATAM,Services,Gold,-3.66,7,declining,32.7,25,1,0.0875,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_800,LATAM,Manufacturing,Silver,-14.54,7,stable,68.5,60,0,0.0875,declining GTV,🟢 Low Risk
+partner_44,NA,Manufacturing,Gold,6.94,6,stable,38.3,57,1,0.0871,competitor relationship,🟢 Low Risk
+partner_944,NA,Retail,Bronze,2.86,6,stable,38.2,46,0,0.0865,engagement decline,🟢 Low Risk
+partner_88,NA,Services,Bronze,11.17,4,stable,33.8,38,0,0.0862,weak/declining NPS,🟢 Low Risk
+partner_541,APAC,Services,Silver,-1.05,7,stable,56.6,52,0,0.0856,engagement decline,🟢 Low Risk
+partner_284,EMEA,Manufacturing,Silver,1.7,7,declining,75.7,69,0,0.0855,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_410,APAC,Manufacturing,Gold,6.25,7,declining,30.8,41,0,0.0853,weak/declining NPS,🟢 Low Risk
+partner_516,EMEA,Retail,Silver,-10.83,7,improving,59.5,58,0,0.0845,declining GTV,🟢 Low Risk
+partner_363,EMEA,Manufacturing,Bronze,2.53,7,stable,55.7,47,0,0.0836,engagement decline,🟢 Low Risk
+partner_668,APAC,Retail,Bronze,3.17,8,declining,54.4,39,0,0.0821,weak/declining NPS,🟢 Low Risk
+partner_679,EMEA,Services,Silver,-16.95,5,stable,64.2,42,0,0.0817,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_82,NA,Services,Bronze,-7.15,4,stable,53.3,42,0,0.0813,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_580,NA,Services,Gold,4.54,6,declining,38.1,11,0,0.0813,weak/declining NPS,🟢 Low Risk
+partner_513,EMEA,Manufacturing,Bronze,18.8,5,stable,46.6,48,0,0.0809,weak/declining NPS,🟢 Low Risk
+partner_251,LATAM,Retail,Silver,5.77,7,declining,63.7,35,0,0.0801,weak/declining NPS,🟢 Low Risk
+partner_287,EMEA,Tech,Gold,15.09,6,improving,33.1,47,0,0.0798,engagement decline,🟢 Low Risk
+partner_197,NA,Retail,Bronze,4.9,9,improving,70.2,130,1,0.0798,"long contact gap, competitor relationship",🟢 Low Risk
+partner_119,NA,Retail,Bronze,-29.99,7,declining,50.5,32,0,0.0797,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_48,EMEA,Services,Silver,21.76,6,stable,46.6,56,0,0.0791,engagement decline,🟢 Low Risk
+partner_316,NA,Manufacturing,Bronze,-5.72,6,declining,63.1,74,0,0.0782,"declining GTV, weak/declining NPS, long contact gap",🟢 Low Risk
+partner_775,EMEA,Manufacturing,Silver,13.65,6,stable,37.8,42,0,0.0773,engagement decline,🟢 Low Risk
+partner_85,EMEA,Services,Silver,-1.48,5,stable,56.4,47,0,0.0772,weak/declining NPS,🟢 Low Risk
+partner_818,NA,Tech,Silver,-13.9,6,declining,66.5,24,1,0.0762,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_531,LATAM,Tech,Silver,-9.2,7,improving,40.2,39,1,0.076,"declining GTV, competitor relationship",🟢 Low Risk
+partner_453,LATAM,Services,Silver,13.48,7,improving,43.4,62,0,0.075,long contact gap,🟢 Low Risk
+partner_454,EMEA,Services,Silver,-12.12,7,declining,47.6,48,0,0.075,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_198,APAC,Manufacturing,Silver,17.41,6,improving,37.5,50,0,0.0746,engagement decline,🟢 Low Risk
+partner_184,NA,Retail,Bronze,7.93,7,stable,61.0,51,0,0.0743,engagement decline,🟢 Low Risk
+partner_125,EMEA,Tech,Bronze,-4.93,5,improving,44.9,32,1,0.0741,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_673,APAC,Services,Bronze,22.29,6,improving,51.5,69,0,0.0739,long contact gap,🟢 Low Risk
+partner_273,EMEA,Tech,Silver,1.03,6,improving,39.5,44,0,0.0736,engagement decline,🟢 Low Risk
+partner_589,EMEA,Retail,Bronze,15.69,6,declining,51.2,10,0,0.072,weak/declining NPS,🟢 Low Risk
+partner_684,NA,Retail,Silver,-1.28,7,declining,49.5,22,0,0.0715,weak/declining NPS,🟢 Low Risk
+partner_332,EMEA,Tech,Bronze,-5.65,7,declining,52.7,36,0,0.0702,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_624,NA,Retail,Gold,-3.82,7,declining,41.5,48,0,0.0698,weak/declining NPS,🟢 Low Risk
+partner_376,EMEA,Retail,Bronze,-6.96,6,stable,59.1,9,0,0.0689,declining GTV,🟢 Low Risk
+partner_466,LATAM,Manufacturing,Silver,47.56,7,stable,55.1,20,1,0.0682,competitor relationship,🟢 Low Risk
+partner_508,APAC,Tech,Gold,18.35,5,stable,55.1,52,0,0.0681,weak/declining NPS,🟢 Low Risk
+partner_49,LATAM,Services,Bronze,31.38,6,declining,53.3,27,0,0.0677,weak/declining NPS,🟢 Low Risk
+partner_51,EMEA,Manufacturing,Gold,2.8,7,stable,40.3,68,0,0.0676,long contact gap,🟢 Low Risk
+partner_171,EMEA,Tech,Bronze,0.46,4,stable,66.7,29,0,0.0675,weak/declining NPS,🟢 Low Risk
+partner_225,EMEA,Retail,Gold,33.73,6,improving,16.4,6,0,0.0675,engagement decline,🟢 Low Risk
+partner_467,LATAM,Tech,Silver,-3.34,9,stable,36.2,53,0,0.0673,engagement decline,🟢 Low Risk
+partner_347,APAC,Tech,Gold,-10.74,6,declining,43.3,30,0,0.0671,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_439,LATAM,Services,Bronze,-11.27,6,declining,47.8,51,0,0.0668,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_78,LATAM,Tech,Bronze,25.92,6,declining,58.4,40,0,0.0668,weak/declining NPS,🟢 Low Risk
+partner_587,EMEA,Tech,Bronze,-4.91,5,declining,50.2,36,0,0.0665,weak/declining NPS,🟢 Low Risk
+partner_599,APAC,Services,Gold,1.0,4,stable,64.7,22,1,0.0659,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_739,NA,Tech,Silver,-9.02,6,stable,51.2,33,0,0.0641,declining GTV,🟢 Low Risk
+partner_571,NA,Tech,Bronze,2.7,5,stable,54.1,51,0,0.0638,weak/declining NPS,🟢 Low Risk
+partner_18,EMEA,Services,Bronze,15.55,7,stable,22.1,61,0,0.0628,long contact gap,🟢 Low Risk
+partner_141,NA,Tech,Gold,3.67,5,declining,49.3,49,0,0.0617,weak/declining NPS,🟢 Low Risk
+partner_754,NA,Services,Bronze,-13.32,6,declining,62.3,60,0,0.0615,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_832,NA,Services,Bronze,37.93,5,stable,28.7,36,0,0.0614,weak/declining NPS,🟢 Low Risk
+partner_544,APAC,Retail,Bronze,45.87,5,stable,46.8,46,0,0.0613,weak/declining NPS,🟢 Low Risk
+partner_609,LATAM,Tech,Silver,35.48,6,improving,43.9,25,0,0.0612,engagement decline,🟢 Low Risk
+partner_733,EMEA,Manufacturing,Silver,4.17,4,improving,89.6,45,0,0.0611,weak/declining NPS,🟢 Low Risk
+partner_420,APAC,Services,Gold,3.17,6,declining,63.0,67,0,0.0608,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_925,EMEA,Retail,Bronze,-1.01,7,declining,50.6,50,0,0.0606,weak/declining NPS,🟢 Low Risk
+partner_126,NA,Manufacturing,Bronze,5.92,7,improving,55.2,43,1,0.0602,competitor relationship,🟢 Low Risk
+partner_159,LATAM,Tech,Bronze,19.47,5,stable,50.6,32,0,0.06,weak/declining NPS,🟢 Low Risk
+partner_368,LATAM,Retail,Bronze,-5.92,7,declining,62.1,38,0,0.06,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_326,LATAM,Services,Gold,-6.11,6,declining,54.5,45,0,0.0592,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_396,NA,Retail,Gold,0.35,7,stable,43.1,45,1,0.0582,competitor relationship,🟢 Low Risk
+partner_972,EMEA,Services,Silver,32.78,5,declining,58.5,55,0,0.0578,weak/declining NPS,🟢 Low Risk
+partner_556,EMEA,Services,Silver,9.39,5,stable,75.5,42,0,0.0572,weak/declining NPS,🟢 Low Risk
+partner_163,EMEA,Services,Bronze,-29.93,6,stable,27.9,44,0,0.0571,declining GTV,🟢 Low Risk
+partner_523,EMEA,Services,Bronze,4.16,7,improving,67.2,62,1,0.0561,"long contact gap, competitor relationship",🟢 Low Risk
+partner_978,NA,Services,Silver,7.13,6,declining,59.5,73,0,0.0558,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_351,LATAM,Services,Bronze,11.23,7,stable,32.5,63,0,0.0558,long contact gap,🟢 Low Risk
+partner_557,EMEA,Services,Bronze,19.37,3,stable,43.5,21,0,0.0557,weak/declining NPS,🟢 Low Risk
+partner_596,EMEA,Manufacturing,Gold,-14.59,7,declining,38.4,57,0,0.0557,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_127,NA,Tech,Bronze,-9.57,5,stable,41.4,35,0,0.0543,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_760,NA,Services,Silver,11.06,5,stable,54.7,65,0,0.0536,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_445,EMEA,Retail,Bronze,-3.69,6,stable,72.3,34,1,0.053,competitor relationship,🟢 Low Risk
+partner_464,NA,Tech,Silver,4.15,6,stable,38.9,45,0,0.0524,engagement decline,🟢 Low Risk
+partner_675,NA,Services,Silver,3.3,6,stable,61.6,50,1,0.0512,competitor relationship,🟢 Low Risk
+partner_866,APAC,Services,Bronze,7.11,6,stable,47.7,53,0,0.0508,engagement decline,🟢 Low Risk
+partner_720,APAC,Services,Silver,-0.54,5,stable,38.6,3,0,0.0506,weak/declining NPS,🟢 Low Risk
+partner_290,EMEA,Manufacturing,Bronze,1.51,7,improving,46.3,39,0,0.05,engagement decline,🟢 Low Risk
+partner_602,LATAM,Retail,Silver,17.12,7,improving,66.9,47,0,0.0485,engagement decline,🟢 Low Risk
+partner_773,NA,Manufacturing,Gold,-11.34,7,declining,38.0,35,0,0.0482,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_688,APAC,Tech,Silver,25.21,5,stable,42.3,31,0,0.0481,weak/declining NPS,🟢 Low Risk
+partner_365,LATAM,Tech,Silver,-29.16,8,improving,50.4,59,0,0.0481,declining GTV,🟢 Low Risk
+partner_692,APAC,Services,Bronze,5.25,6,stable,16.1,44,0,0.048,engagement decline,🟢 Low Risk
+partner_898,EMEA,Retail,Bronze,-16.18,6,stable,86.1,51,0,0.0473,declining GTV,🟢 Low Risk
+partner_177,NA,Tech,Bronze,12.99,6,stable,35.6,40,0,0.0468,engagement decline,🟢 Low Risk
+partner_412,LATAM,Services,Gold,-6.1,5,stable,87.4,29,1,0.0467,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_274,NA,Manufacturing,Silver,4.14,6,improving,61.8,61,0,0.0466,long contact gap,🟢 Low Risk
+partner_389,EMEA,Services,Silver,5.53,8,stable,0.1,27,0,0.0464,engagement decline,🟢 Low Risk
+partner_654,EMEA,Retail,Silver,-8.23,9,stable,27.6,23,0,0.0459,declining GTV,🟢 Low Risk
+partner_994,EMEA,Retail,Silver,-5.28,8,stable,32.1,37,0,0.0457,declining GTV,🟢 Low Risk
+partner_182,APAC,Retail,Gold,4.35,6,improving,55.4,61,0,0.0451,long contact gap,🟢 Low Risk
+partner_681,EMEA,Manufacturing,Silver,-0.29,7,declining,48.7,38,0,0.045,weak/declining NPS,🟢 Low Risk
+partner_678,NA,Tech,Silver,5.41,6,improving,56.5,51,0,0.045,engagement decline,🟢 Low Risk
+partner_721,NA,Retail,Silver,5.4,6,stable,54.7,34,0,0.0447,engagement decline,🟢 Low Risk
+partner_55,LATAM,Retail,Bronze,-2.01,5,improving,72.9,37,0,0.0447,weak/declining NPS,🟢 Low Risk
+partner_902,EMEA,Retail,Gold,-28.05,8,declining,49.7,45,0,0.0446,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_405,APAC,Retail,Silver,-13.84,7,stable,47.8,40,0,0.0445,declining GTV,🟢 Low Risk
+partner_175,EMEA,Tech,Bronze,2.28,5,improving,39.0,18,0,0.0441,weak/declining NPS,🟢 Low Risk
+partner_339,EMEA,Services,Silver,3.6,5,stable,54.7,60,0,0.0438,weak/declining NPS,🟢 Low Risk
+partner_462,EMEA,Tech,Silver,11.85,7,improving,47.6,51,0,0.0436,engagement decline,🟢 Low Risk
+partner_554,APAC,Tech,Gold,-15.67,6,stable,38.7,38,0,0.0435,declining GTV,🟢 Low Risk
+partner_25,LATAM,Manufacturing,Bronze,-15.31,7,improving,83.4,82,0,0.0435,"declining GTV, long contact gap",🟢 Low Risk
+partner_676,NA,Services,Silver,10.25,5,stable,67.3,38,0,0.0434,weak/declining NPS,🟢 Low Risk
+partner_497,NA,Services,Silver,21.18,7,stable,46.3,56,0,0.0429,engagement decline,🟢 Low Risk
+partner_357,LATAM,Tech,Bronze,-16.76,8,declining,57.7,48,0,0.0416,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_46,APAC,Tech,Bronze,2.72,7,improving,57.4,37,1,0.0412,competitor relationship,🟢 Low Risk
+partner_981,APAC,Services,Silver,-5.96,4,improving,61.9,35,0,0.0402,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_20,LATAM,Tech,Bronze,4.27,7,improving,54.8,72,0,0.0391,long contact gap,🟢 Low Risk
+partner_56,LATAM,Manufacturing,Bronze,-5.46,9,declining,61.7,44,0,0.0383,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_662,APAC,Manufacturing,Bronze,-4.43,6,improving,51.0,42,0,0.0377,engagement decline,🟢 Low Risk
+partner_414,APAC,Services,Silver,4.22,5,stable,61.5,35,0,0.0375,weak/declining NPS,🟢 Low Risk
+partner_102,LATAM,Tech,Bronze,11.15,7,stable,58.9,38,0,0.037,engagement decline,🟢 Low Risk
+partner_431,APAC,Services,Silver,-0.29,8,stable,52.0,31,1,0.0368,competitor relationship,🟢 Low Risk
+partner_213,EMEA,Manufacturing,Gold,-8.71,8,stable,23.7,45,0,0.0367,declining GTV,🟢 Low Risk
+partner_670,NA,Services,Bronze,-6.67,5,stable,54.3,38,1,0.0367,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_583,EMEA,Tech,Bronze,0.75,6,stable,52.4,50,0,0.0363,engagement decline,🟢 Low Risk
+partner_463,APAC,Retail,Bronze,25.1,6,improving,52.8,48,0,0.0361,engagement decline,🟢 Low Risk
+partner_266,EMEA,Services,Bronze,-3.45,6,stable,40.9,21,0,0.036,engagement decline,🟢 Low Risk
+partner_621,LATAM,Retail,Gold,38.88,6,stable,90.9,70,0,0.0355,long contact gap,🟢 Low Risk
+partner_899,EMEA,Retail,Silver,18.73,7,stable,67.2,22,1,0.035,competitor relationship,🟢 Low Risk
+partner_593,NA,Services,Silver,-6.09,6,stable,53.8,51,0,0.035,declining GTV,🟢 Low Risk
+partner_656,NA,Tech,Gold,8.35,6,declining,44.5,4,1,0.0349,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_224,APAC,Manufacturing,Bronze,-10.2,6,declining,63.3,26,0,0.0345,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_695,APAC,Manufacturing,Gold,9.17,5,improving,60.2,28,0,0.0342,weak/declining NPS,🟢 Low Risk
+partner_991,LATAM,Retail,Silver,-2.64,8,stable,58.1,33,0,0.0339,engagement decline,🟢 Low Risk
+partner_178,APAC,Tech,Silver,-8.71,7,improving,44.2,52,0,0.0337,declining GTV,🟢 Low Risk
+partner_305,APAC,Services,Bronze,11.48,7,stable,48.7,26,1,0.0334,competitor relationship,🟢 Low Risk
+partner_846,APAC,Manufacturing,Silver,-11.91,6,stable,93.0,58,0,0.0334,declining GTV,🟢 Low Risk
+partner_814,NA,Retail,Bronze,5.02,7,stable,52.2,33,0,0.0333,engagement decline,🟢 Low Risk
+partner_906,LATAM,Tech,Silver,3.86,7,stable,83.2,46,0,0.0327,engagement decline,🟢 Low Risk
+partner_134,NA,Manufacturing,Gold,-16.5,8,stable,31.8,32,1,0.0315,"declining GTV, competitor relationship",🟢 Low Risk
+partner_97,NA,Retail,Bronze,0.19,8,declining,52.5,49,0,0.0313,weak/declining NPS,🟢 Low Risk
+partner_990,LATAM,Retail,Silver,-5.39,7,stable,70.1,49,0,0.0313,declining GTV,🟢 Low Risk
+partner_642,APAC,Retail,Silver,8.89,7,improving,48.9,0,1,0.0313,competitor relationship,🟢 Low Risk
+partner_795,EMEA,Services,Silver,10.73,7,stable,58.1,20,0,0.0311,engagement decline,🟢 Low Risk
+partner_686,NA,Retail,Silver,-22.38,6,stable,52.7,14,0,0.0305,declining GTV,🟢 Low Risk
+partner_618,NA,Manufacturing,Gold,-1.35,6,improving,38.8,67,0,0.0304,long contact gap,🟢 Low Risk
+partner_875,LATAM,Services,Bronze,10.2,8,improving,42.5,35,0,0.0304,engagement decline,🟢 Low Risk
+partner_434,APAC,Retail,Bronze,23.89,7,improving,50.8,53,0,0.0303,engagement decline,🟢 Low Risk
+partner_38,NA,Tech,Bronze,-12.38,7,stable,62.4,22,1,0.0294,"declining GTV, competitor relationship",🟢 Low Risk
+partner_457,APAC,Retail,Silver,22.34,8,improving,67.2,46,1,0.0293,competitor relationship,🟢 Low Risk
+partner_562,EMEA,Manufacturing,Silver,6.36,8,stable,81.4,57,0,0.0291,engagement decline,🟢 Low Risk
+partner_6,APAC,Tech,Gold,-11.01,8,stable,57.6,39,1,0.029,"declining GTV, competitor relationship",🟢 Low Risk
+partner_612,LATAM,Services,Silver,4.37,6,stable,49.2,33,0,0.029,engagement decline,🟢 Low Risk
+partner_569,NA,Tech,Silver,2.57,8,declining,60.7,65,0,0.0289,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_543,APAC,Tech,Bronze,-1.6,6,stable,59.1,7,0,0.0287,engagement decline,🟢 Low Risk
+partner_76,EMEA,Tech,Silver,-4.98,9,improving,68.3,40,1,0.0281,competitor relationship,🟢 Low Risk
+partner_452,APAC,Manufacturing,Silver,-10.7,7,improving,43.8,0,1,0.0281,"declining GTV, competitor relationship",🟢 Low Risk
+partner_90,NA,Tech,Bronze,5.54,6,stable,41.3,19,0,0.0281,engagement decline,🟢 Low Risk
+partner_510,EMEA,Manufacturing,Silver,-10.24,6,improving,53.7,31,0,0.0276,declining GTV,🟢 Low Risk
+partner_912,APAC,Retail,Bronze,3.9,6,improving,48.5,43,0,0.0275,engagement decline,🟢 Low Risk
+partner_732,EMEA,Retail,Bronze,-0.91,7,improving,62.9,51,0,0.0273,engagement decline,🟢 Low Risk
+partner_815,EMEA,Services,Bronze,8.17,7,improving,59.9,60,0,0.0269,engagement decline,🟢 Low Risk
+partner_455,EMEA,Tech,Silver,-4.73,8,improving,40.1,49,0,0.0268,engagement decline,🟢 Low Risk
+partner_540,APAC,Tech,Silver,-0.76,9,stable,56.2,63,0,0.0258,long contact gap,🟢 Low Risk
+partner_170,APAC,Retail,Silver,-1.13,5,stable,78.5,19,0,0.0254,weak/declining NPS,🟢 Low Risk
+partner_324,NA,Services,Bronze,-0.85,9,stable,47.5,36,1,0.0251,competitor relationship,🟢 Low Risk
+partner_877,NA,Retail,Bronze,13.16,8,stable,38.1,32,0,0.0248,engagement decline,🟢 Low Risk
+partner_355,NA,Services,Bronze,5.58,5,improving,82.1,61,1,0.0247,"weak/declining NPS, long contact gap, competitor relationship",🟢 Low Risk
+partner_973,EMEA,Manufacturing,Bronze,-4.46,6,improving,58.7,41,0,0.0246,engagement decline,🟢 Low Risk
+partner_838,APAC,Tech,Bronze,4.48,8,improving,51.6,23,1,0.0245,competitor relationship,🟢 Low Risk
+partner_254,EMEA,Manufacturing,Silver,4.63,6,stable,59.3,35,0,0.0245,engagement decline,🟢 Low Risk
+partner_882,LATAM,Manufacturing,Bronze,-17.63,6,improving,61.8,32,0,0.0244,declining GTV,🟢 Low Risk
+partner_323,NA,Retail,Bronze,-0.38,6,stable,77.1,44,0,0.0244,engagement decline,🟢 Low Risk
+partner_860,NA,Retail,Bronze,15.27,7,improving,62.0,60,0,0.0243,engagement decline,🟢 Low Risk
+partner_870,EMEA,Services,Bronze,-11.35,7,declining,53.8,8,1,0.0242,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_9,EMEA,Manufacturing,Bronze,2.29,6,stable,64.0,2,1,0.023,competitor relationship,🟢 Low Risk
+partner_873,APAC,Services,Bronze,-5.7,7,improving,54.5,43,0,0.023,declining GTV,🟢 Low Risk
+partner_512,APAC,Retail,Bronze,-0.14,8,improving,26.4,21,0,0.0229,engagement decline,🟢 Low Risk
+partner_237,NA,Retail,Bronze,-16.39,8,improving,38.9,54,0,0.0227,declining GTV,🟢 Low Risk
+partner_630,APAC,Tech,Bronze,21.68,7,improving,59.5,39,1,0.0226,competitor relationship,🟢 Low Risk
+partner_15,NA,Tech,Bronze,-33.67,8,declining,34.6,10,1,0.0225,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_28,EMEA,Tech,Bronze,-1.85,7,improving,53.1,35,0,0.0222,engagement decline,🟢 Low Risk
+partner_430,APAC,Tech,Silver,50.23,6,stable,55.6,40,0,0.0222,engagement decline,🟢 Low Risk
+partner_765,APAC,Retail,Bronze,25.17,6,improving,45.7,23,0,0.022,engagement decline,🟢 Low Risk
+partner_150,EMEA,Services,Bronze,-5.52,6,declining,51.3,37,0,0.022,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_762,EMEA,Retail,Gold,65.6,7,declining,47.3,35,0,0.0219,weak/declining NPS,🟢 Low Risk
+partner_121,NA,Manufacturing,Bronze,3.54,7,improving,49.8,10,1,0.0219,competitor relationship,🟢 Low Risk
+partner_578,NA,Services,Gold,-4.32,4,stable,46.4,26,0,0.0218,weak/declining NPS,🟢 Low Risk
+partner_145,NA,Tech,Bronze,10.14,5,improving,74.2,69,0,0.0214,"weak/declining NPS, long contact gap",🟢 Low Risk
+partner_98,EMEA,Services,Bronze,-10.45,6,stable,55.1,40,0,0.0213,declining GTV,🟢 Low Risk
+partner_489,NA,Services,Bronze,9.94,7,stable,30.7,13,1,0.021,competitor relationship,🟢 Low Risk
+partner_572,APAC,Manufacturing,Silver,3.26,6,stable,72.7,19,0,0.021,engagement decline,🟢 Low Risk
+partner_397,APAC,Tech,Bronze,-7.78,8,stable,56.7,38,0,0.0209,declining GTV,🟢 Low Risk
+partner_196,EMEA,Retail,Silver,-6.34,8,stable,40.6,9,0,0.0208,declining GTV,🟢 Low Risk
+partner_928,APAC,Manufacturing,Silver,23.5,8,improving,70.4,52,0,0.0208,engagement decline,🟢 Low Risk
+partner_986,APAC,Services,Bronze,26.37,7,improving,50.2,43,0,0.0207,engagement decline,🟢 Low Risk
+partner_905,APAC,Manufacturing,Bronze,-18.13,7,improving,69.8,67,0,0.0205,"declining GTV, long contact gap",🟢 Low Risk
+partner_387,LATAM,Manufacturing,Gold,3.49,8,declining,71.2,58,0,0.0204,weak/declining NPS,🟢 Low Risk
+partner_280,APAC,Manufacturing,Silver,49.47,7,improving,38.4,0,1,0.0204,competitor relationship,🟢 Low Risk
+partner_130,NA,Services,Bronze,16.96,6,improving,44.1,78,0,0.0204,long contact gap,🟢 Low Risk
+partner_94,NA,Retail,Bronze,7.38,8,stable,56.5,48,0,0.0203,engagement decline,🟢 Low Risk
+partner_915,APAC,Retail,Bronze,-23.49,7,improving,50.8,25,0,0.0201,declining GTV,🟢 Low Risk
+partner_373,NA,Tech,Bronze,5.82,6,improving,58.5,21,0,0.0201,engagement decline,🟢 Low Risk
+partner_380,LATAM,Tech,Silver,-12.28,10,stable,45.1,29,0,0.02,declining GTV,🟢 Low Risk
+partner_330,EMEA,Retail,Bronze,-25.93,6,stable,62.0,25,0,0.02,declining GTV,🟢 Low Risk
+partner_388,APAC,Tech,Bronze,18.61,7,improving,63.4,49,0,0.02,engagement decline,🟢 Low Risk
+partner_565,LATAM,Services,Silver,6.05,8,stable,50.1,24,0,0.0198,engagement decline,🟢 Low Risk
+partner_321,APAC,Tech,Bronze,6.56,6,stable,57.0,18,0,0.0197,engagement decline,🟢 Low Risk
+partner_372,EMEA,Services,Bronze,7.37,8,declining,57.2,36,0,0.0196,weak/declining NPS,🟢 Low Risk
+partner_519,EMEA,Retail,Silver,4.88,8,stable,45.6,0,0,0.0195,engagement decline,🟢 Low Risk
+partner_117,LATAM,Retail,Bronze,-19.85,6,stable,71.6,20,0,0.0195,declining GTV,🟢 Low Risk
+partner_847,NA,Tech,Bronze,9.88,7,stable,54.0,41,0,0.0194,engagement decline,🟢 Low Risk
+partner_959,NA,Services,Bronze,4.18,8,stable,50.8,62,0,0.0194,long contact gap,🟢 Low Risk
+partner_153,EMEA,Retail,Silver,-14.28,8,improving,80.4,41,0,0.0191,declining GTV,🟢 Low Risk
+partner_176,EMEA,Services,Silver,3.39,6,improving,60.9,56,0,0.0187,engagement decline,🟢 Low Risk
+partner_840,NA,Manufacturing,Bronze,-0.54,5,improving,46.1,27,0,0.0183,weak/declining NPS,🟢 Low Risk
+partner_954,EMEA,Services,Gold,0.59,6,declining,49.7,50,0,0.0181,weak/declining NPS,🟢 Low Risk
+partner_694,NA,Manufacturing,Gold,1.78,7,declining,75.7,42,0,0.0177,weak/declining NPS,🟢 Low Risk
+partner_75,EMEA,Services,Bronze,-20.66,6,stable,40.9,32,0,0.0173,declining GTV,🟢 Low Risk
+partner_219,APAC,Manufacturing,Gold,-8.08,8,declining,57.3,45,0,0.0171,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_468,APAC,Retail,Silver,10.67,8,improving,66.1,21,0,0.0171,engagement decline,🟢 Low Risk
+partner_57,NA,Services,Gold,-20.96,6,improving,47.0,23,0,0.0171,declining GTV,🟢 Low Risk
+partner_622,NA,Tech,Gold,0.9,7,stable,33.5,25,0,0.017,engagement decline,🟢 Low Risk
+partner_964,EMEA,Retail,Silver,-35.27,7,improving,67.6,29,0,0.0168,declining GTV,🟢 Low Risk
+partner_61,LATAM,Services,Gold,0.54,9,declining,46.4,20,0,0.0167,weak/declining NPS,🟢 Low Risk
+partner_658,EMEA,Services,Silver,11.99,8,stable,28.6,29,0,0.0167,engagement decline,🟢 Low Risk
+partner_258,EMEA,Services,Silver,16.92,7,declining,54.1,54,0,0.0166,weak/declining NPS,🟢 Low Risk
+partner_364,EMEA,Retail,Gold,-23.16,8,stable,67.7,59,1,0.0163,"declining GTV, competitor relationship",🟢 Low Risk
+partner_32,APAC,Manufacturing,Silver,-1.13,9,stable,62.9,22,1,0.0163,competitor relationship,🟢 Low Risk
+partner_37,EMEA,Tech,Gold,-5.04,7,improving,49.6,38,0,0.0163,declining GTV,🟢 Low Risk
+partner_306,NA,Services,Bronze,11.04,7,stable,50.3,41,0,0.0161,engagement decline,🟢 Low Risk
+partner_93,NA,Retail,Silver,-32.79,7,declining,70.1,15,0,0.016,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_188,EMEA,Services,Silver,56.72,6,stable,46.6,7,0,0.016,engagement decline,🟢 Low Risk
+partner_546,NA,Tech,Bronze,13.12,6,stable,55.9,31,0,0.016,engagement decline,🟢 Low Risk
+partner_878,NA,Tech,Bronze,14.04,5,stable,63.1,0,0,0.0158,weak/declining NPS,🟢 Low Risk
+partner_299,LATAM,Manufacturing,Bronze,-10.54,5,improving,66.8,0,0,0.0158,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_796,NA,Retail,Silver,0.55,8,stable,63.3,26,0,0.0156,engagement decline,🟢 Low Risk
+partner_343,APAC,Tech,Silver,-11.56,8,declining,83.2,14,0,0.0156,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_767,EMEA,Services,Bronze,-2.01,6,declining,75.2,28,0,0.0156,weak/declining NPS,🟢 Low Risk
+partner_362,EMEA,Tech,Bronze,13.82,7,improving,41.0,27,0,0.0155,engagement decline,🟢 Low Risk
+partner_250,NA,Services,Bronze,4.83,6,stable,50.7,27,1,0.0152,competitor relationship,🟢 Low Risk
+partner_836,NA,Retail,Silver,1.88,8,stable,59.7,34,0,0.0148,engagement decline,🟢 Low Risk
+partner_594,NA,Tech,Bronze,6.8,7,declining,55.4,27,0,0.0148,weak/declining NPS,🟢 Low Risk
+partner_855,EMEA,Services,Silver,64.34,6,stable,45.0,27,0,0.0148,engagement decline,🟢 Low Risk
+partner_246,APAC,Retail,Bronze,19.85,7,improving,69.4,38,0,0.0146,engagement decline,🟢 Low Risk
+partner_311,NA,Tech,Gold,-10.33,8,improving,65.2,47,1,0.0144,"declining GTV, competitor relationship",🟢 Low Risk
+partner_488,EMEA,Tech,Silver,-8.44,8,improving,52.4,25,0,0.0141,declining GTV,🟢 Low Risk
+partner_963,EMEA,Manufacturing,Bronze,-6.32,5,stable,55.3,0,0,0.0141,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_548,EMEA,Services,Bronze,9.71,7,stable,73.1,74,0,0.014,long contact gap,🟢 Low Risk
+partner_416,EMEA,Services,Bronze,-9.02,7,improving,59.5,26,1,0.014,"declining GTV, competitor relationship",🟢 Low Risk
+partner_888,EMEA,Retail,Gold,17.63,6,stable,74.6,27,0,0.0137,engagement decline,🟢 Low Risk
+partner_426,APAC,Tech,Silver,-1.32,8,stable,27.0,12,0,0.0136,engagement decline,🟢 Low Risk
+partner_520,APAC,Retail,Bronze,-2.92,8,stable,62.4,43,0,0.0135,engagement decline,🟢 Low Risk
+partner_303,NA,Services,Bronze,-15.75,8,improving,71.1,44,1,0.0132,"declining GTV, competitor relationship",🟢 Low Risk
+partner_697,LATAM,Retail,Silver,19.34,9,declining,71.8,12,0,0.0132,weak/declining NPS,🟢 Low Risk
+partner_479,LATAM,Tech,Bronze,-18.05,7,stable,76.7,31,0,0.013,declining GTV,🟢 Low Risk
+partner_338,LATAM,Manufacturing,Bronze,24.89,7,improving,52.2,29,0,0.0129,engagement decline,🟢 Low Risk
+partner_282,EMEA,Tech,Bronze,-1.82,8,stable,60.3,48,0,0.0127,engagement decline,🟢 Low Risk
+partner_123,EMEA,Services,Bronze,-3.41,8,stable,71.4,67,0,0.0125,long contact gap,🟢 Low Risk
+partner_714,APAC,Services,Bronze,4.0,4,stable,60.0,4,0,0.0123,weak/declining NPS,🟢 Low Risk
+partner_185,LATAM,Retail,Silver,22.46,9,improving,63.5,24,0,0.0123,engagement decline,🟢 Low Risk
+partner_764,EMEA,Retail,Bronze,51.04,7,declining,72.8,16,0,0.0121,weak/declining NPS,🟢 Low Risk
+partner_138,NA,Tech,Silver,11.58,9,declining,59.5,35,0,0.0121,weak/declining NPS,🟢 Low Risk
+partner_480,NA,Tech,Gold,-3.07,8,stable,27.0,11,0,0.012,engagement decline,🟢 Low Risk
+partner_946,EMEA,Services,Bronze,-7.4,5,stable,70.5,0,1,0.0118,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_228,NA,Tech,Bronze,20.66,8,stable,50.6,43,0,0.0117,engagement decline,🟢 Low Risk
+partner_854,APAC,Services,Bronze,1.25,7,declining,68.9,10,0,0.0117,weak/declining NPS,🟢 Low Risk
+partner_154,NA,Retail,Silver,0.31,7,stable,76.3,35,0,0.0116,engagement decline,🟢 Low Risk
+partner_969,NA,Tech,Silver,29.58,8,improving,58.0,64,0,0.0115,long contact gap,🟢 Low Risk
+partner_672,NA,Manufacturing,Bronze,-6.91,9,declining,66.5,21,0,0.0113,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_34,NA,Services,Bronze,11.04,8,stable,42.7,28,0,0.0112,engagement decline,🟢 Low Risk
+partner_549,LATAM,Tech,Bronze,-8.88,9,improving,47.0,35,0,0.0112,declining GTV,🟢 Low Risk
+partner_701,EMEA,Services,Silver,1.07,8,stable,45.3,35,0,0.0112,engagement decline,🟢 Low Risk
+partner_853,APAC,Tech,Silver,7.96,9,improving,66.3,55,0,0.0111,engagement decline,🟢 Low Risk
+partner_522,NA,Tech,Silver,9.4,6,improving,51.3,25,0,0.0111,engagement decline,🟢 Low Risk
+partner_659,NA,Tech,Bronze,-20.11,7,declining,59.3,6,0,0.011,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_247,LATAM,Manufacturing,Bronze,4.27,8,stable,51.6,46,0,0.0108,engagement decline,🟢 Low Risk
+partner_335,EMEA,Services,Bronze,2.25,8,improving,75.9,37,1,0.0106,competitor relationship,🟢 Low Risk
+partner_411,LATAM,Services,Silver,-5.8,9,improving,65.8,59,0,0.0105,declining GTV,🟢 Low Risk
+partner_709,NA,Services,Bronze,-1.27,6,stable,63.6,37,0,0.0104,engagement decline,🟢 Low Risk
+partner_461,NA,Services,Gold,-15.76,5,stable,53.6,41,0,0.0104,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_770,LATAM,Services,Gold,1.21,8,declining,61.3,21,0,0.0104,weak/declining NPS,🟢 Low Risk
+partner_639,LATAM,Retail,Silver,11.55,8,improving,60.7,0,1,0.0103,competitor relationship,🟢 Low Risk
+partner_54,LATAM,Retail,Silver,-6.36,8,stable,74.8,0,0,0.0103,declining GTV,🟢 Low Risk
+partner_72,NA,Manufacturing,Bronze,11.06,8,stable,58.1,0,1,0.0103,competitor relationship,🟢 Low Risk
+partner_156,LATAM,Retail,Gold,1.17,9,improving,59.9,20,1,0.0102,competitor relationship,🟢 Low Risk
+partner_772,NA,Services,Silver,-19.1,8,stable,82.9,42,0,0.0102,declining GTV,🟢 Low Risk
+partner_536,EMEA,Tech,Silver,8.58,9,improving,75.0,70,0,0.0102,long contact gap,🟢 Low Risk
+partner_186,LATAM,Services,Bronze,-9.81,8,improving,69.4,41,1,0.0101,"declining GTV, competitor relationship",🟢 Low Risk
+partner_667,APAC,Services,Gold,13.83,8,stable,49.3,33,1,0.0099,competitor relationship,🟢 Low Risk
+partner_932,NA,Manufacturing,Bronze,-26.42,8,declining,62.9,43,0,0.0098,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_283,EMEA,Tech,Bronze,30.85,7,improving,65.3,29,0,0.0098,engagement decline,🟢 Low Risk
+partner_551,NA,Retail,Silver,10.88,9,stable,69.4,37,0,0.0097,engagement decline,🟢 Low Risk
+partner_706,NA,Services,Bronze,13.18,5,stable,75.1,28,0,0.0097,weak/declining NPS,🟢 Low Risk
+partner_192,EMEA,Tech,Silver,6.43,8,improving,79.7,6,0,0.0097,engagement decline,🟢 Low Risk
+partner_366,NA,Tech,Silver,-20.62,8,declining,42.0,0,0,0.0095,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_265,APAC,Manufacturing,Silver,10.77,6,improving,96.6,50,0,0.0095,engagement decline,🟢 Low Risk
+partner_337,EMEA,Retail,Gold,-2.17,7,improving,68.3,31,1,0.0095,competitor relationship,🟢 Low Risk
+partner_953,EMEA,Services,Bronze,20.17,8,declining,50.9,18,0,0.0095,weak/declining NPS,🟢 Low Risk
+partner_89,EMEA,Tech,Silver,-11.06,6,improving,82.6,46,0,0.0094,declining GTV,🟢 Low Risk
+partner_561,EMEA,Services,Silver,-21.64,7,declining,68.8,0,0,0.0093,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_294,EMEA,Tech,Bronze,29.21,7,improving,41.6,20,0,0.0092,engagement decline,🟢 Low Risk
+partner_331,LATAM,Services,Silver,2.01,9,stable,64.2,34,0,0.0092,engagement decline,🟢 Low Risk
+partner_499,NA,Tech,Silver,-7.23,8,improving,54.9,28,0,0.0089,declining GTV,🟢 Low Risk
+partner_500,NA,Manufacturing,Bronze,30.09,7,stable,60.5,40,0,0.0089,engagement decline,🟢 Low Risk
+partner_505,NA,Services,Bronze,0.35,7,improving,69.1,31,1,0.0089,competitor relationship,🟢 Low Risk
+partner_2,NA,Tech,Bronze,-8.96,8,improving,62.7,37,0,0.0089,declining GTV,🟢 Low Risk
+partner_820,EMEA,Manufacturing,Gold,-3.64,7,improving,47.9,20,0,0.0088,engagement decline,🟢 Low Risk
+partner_941,EMEA,Retail,Gold,19.11,7,improving,63.5,38,0,0.0087,engagement decline,🟢 Low Risk
+partner_68,NA,Manufacturing,Gold,-14.54,6,improving,49.7,25,0,0.0086,declining GTV,🟢 Low Risk
+partner_458,NA,Tech,Bronze,8.02,8,improving,67.1,64,0,0.0086,long contact gap,🟢 Low Risk
+partner_114,NA,Services,Silver,-13.2,6,stable,76.8,26,0,0.0086,declining GTV,🟢 Low Risk
+partner_383,LATAM,Tech,Bronze,-5.09,8,improving,59.9,23,0,0.0085,declining GTV,🟢 Low Risk
+partner_181,APAC,Services,Silver,19.41,8,improving,44.5,0,0,0.0082,engagement decline,🟢 Low Risk
+partner_761,LATAM,Tech,Silver,-0.34,10,declining,52.5,30,0,0.008,weak/declining NPS,🟢 Low Risk
+partner_60,EMEA,Manufacturing,Bronze,-14.24,7,improving,80.1,60,0,0.008,declining GTV,🟢 Low Risk
+partner_96,LATAM,Tech,Bronze,-1.4,9,declining,88.0,53,0,0.0079,weak/declining NPS,🟢 Low Risk
+partner_527,APAC,Tech,Gold,-3.13,8,improving,72.0,43,0,0.0079,engagement decline,🟢 Low Risk
+partner_723,EMEA,Manufacturing,Bronze,-21.84,9,declining,50.6,5,0,0.0079,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_890,LATAM,Tech,Bronze,-0.04,7,improving,83.3,34,0,0.0077,engagement decline,🟢 Low Risk
+partner_511,EMEA,Retail,Bronze,7.14,7,stable,56.6,16,0,0.0077,engagement decline,🟢 Low Risk
+partner_722,NA,Retail,Silver,19.07,9,stable,48.0,24,0,0.0076,engagement decline,🟢 Low Risk
+partner_23,APAC,Services,Bronze,5.21,7,improving,56.1,44,0,0.0076,engagement decline,🟢 Low Risk
+partner_956,APAC,Services,Bronze,-15.96,7,improving,54.0,35,0,0.0075,declining GTV,🟢 Low Risk
+partner_286,NA,Services,Bronze,-2.22,8,declining,53.9,37,0,0.0075,weak/declining NPS,🟢 Low Risk
+partner_59,EMEA,Tech,Bronze,-0.51,7,improving,82.2,29,1,0.0074,competitor relationship,🟢 Low Risk
+partner_386,APAC,Retail,Silver,-2.98,9,improving,70.7,50,0,0.0074,engagement decline,🟢 Low Risk
+partner_816,APAC,Tech,Silver,-3.9,10,improving,78.1,45,1,0.0074,competitor relationship,🟢 Low Risk
+partner_525,EMEA,Manufacturing,Gold,16.04,6,declining,74.1,10,0,0.0073,weak/declining NPS,🟢 Low Risk
+partner_600,LATAM,Retail,Gold,0.29,7,improving,39.8,0,0,0.0073,engagement decline,🟢 Low Risk
+partner_625,APAC,Tech,Silver,25.02,7,stable,90.2,3,1,0.0072,competitor relationship,🟢 Low Risk
+partner_81,LATAM,Retail,Bronze,-25.78,10,stable,38.8,21,0,0.0071,declining GTV,🟢 Low Risk
+partner_292,EMEA,Manufacturing,Silver,2.68,7,declining,82.2,6,0,0.007,weak/declining NPS,🟢 Low Risk
+partner_325,APAC,Tech,Bronze,2.69,7,stable,76.2,0,0,0.007,engagement decline,🟢 Low Risk
+partner_104,APAC,Services,Gold,-5.41,8,declining,73.7,19,1,0.007,"declining GTV, weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_451,EMEA,Services,Silver,-18.3,5,improving,80.5,24,0,0.007,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_641,LATAM,Services,Silver,-15.96,7,stable,88.5,39,0,0.0069,declining GTV,🟢 Low Risk
+partner_886,NA,Tech,Bronze,-6.22,8,stable,56.5,41,0,0.0069,declining GTV,🟢 Low Risk
+partner_70,NA,Tech,Silver,5.42,9,stable,64.5,29,0,0.0068,engagement decline,🟢 Low Risk
+partner_615,EMEA,Services,Bronze,-3.09,7,declining,64.6,11,0,0.0068,weak/declining NPS,🟢 Low Risk
+partner_160,LATAM,Services,Bronze,25.15,9,declining,59.5,33,1,0.0068,"weak/declining NPS, competitor relationship",🟢 Low Risk
+partner_348,EMEA,Tech,Silver,3.91,9,improving,70.4,52,0,0.0067,engagement decline,🟢 Low Risk
+partner_242,LATAM,Tech,Bronze,9.11,8,improving,58.6,21,0,0.0067,engagement decline,🟢 Low Risk
+partner_960,NA,Manufacturing,Gold,3.89,6,improving,68.3,42,0,0.0067,engagement decline,🟢 Low Risk
+partner_584,NA,Retail,Bronze,-27.45,8,improving,57.1,35,0,0.0066,declining GTV,🟢 Low Risk
+partner_588,NA,Manufacturing,Bronze,28.7,9,declining,63.6,34,0,0.0065,weak/declining NPS,🟢 Low Risk
+partner_215,LATAM,Retail,Gold,5.21,8,improving,51.1,17,0,0.0064,engagement decline,🟢 Low Risk
+partner_632,APAC,Services,Bronze,8.4,9,improving,62.0,46,0,0.0061,engagement decline,🟢 Low Risk
+partner_111,NA,Retail,Silver,-20.87,8,improving,50.0,22,0,0.0061,declining GTV,🟢 Low Risk
+partner_980,EMEA,Retail,Gold,32.93,8,improving,47.4,38,0,0.0059,engagement decline,🟢 Low Risk
+partner_730,NA,Tech,Gold,21.47,7,stable,64.9,35,0,0.0059,engagement decline,🟢 Low Risk
+partner_245,LATAM,Tech,Bronze,24.74,7,improving,73.6,0,0,0.0059,engagement decline,🟢 Low Risk
+partner_680,NA,Tech,Bronze,-39.96,7,stable,84.3,28,0,0.0059,declining GTV,🟢 Low Risk
+partner_77,EMEA,Tech,Gold,-3.08,8,stable,62.5,56,0,0.0058,engagement decline,🟢 Low Risk
+partner_142,NA,Services,Bronze,20.3,7,improving,70.4,46,0,0.0057,engagement decline,🟢 Low Risk
+partner_369,NA,Retail,Bronze,46.69,7,stable,88.6,53,0,0.0057,engagement decline,🟢 Low Risk
+partner_867,APAC,Services,Bronze,-16.09,6,improving,85.1,24,0,0.0057,declining GTV,🟢 Low Risk
+partner_53,LATAM,Retail,Bronze,-3.15,8,improving,87.7,24,0,0.0057,engagement decline,🟢 Low Risk
+partner_817,APAC,Services,Bronze,4.62,6,stable,85.5,34,0,0.0056,engagement decline,🟢 Low Risk
+partner_785,APAC,Retail,Bronze,5.77,8,improving,62.1,35,0,0.0056,engagement decline,🟢 Low Risk
+partner_441,APAC,Retail,Gold,26.8,7,improving,64.3,20,0,0.0055,engagement decline,🟢 Low Risk
+partner_778,EMEA,Tech,Silver,-33.45,6,improving,66.0,14,0,0.0055,declining GTV,🟢 Low Risk
+partner_385,NA,Services,Bronze,0.69,8,stable,73.7,60,0,0.0055,engagement decline,🟢 Low Risk
+partner_191,APAC,Tech,Bronze,9.42,10,improving,51.1,36,0,0.0055,engagement decline,🟢 Low Risk
+partner_456,EMEA,Retail,Silver,20.26,10,stable,98.8,8,0,0.0055,engagement decline,🟢 Low Risk
+partner_230,EMEA,Retail,Silver,5.64,9,improving,68.0,44,0,0.0054,engagement decline,🟢 Low Risk
+partner_881,NA,Tech,Bronze,-16.83,8,improving,65.9,32,0,0.0054,declining GTV,🟢 Low Risk
+partner_787,APAC,Tech,Silver,12.12,8,improving,58.2,0,0,0.0054,engagement decline,🟢 Low Risk
+partner_717,NA,Tech,Silver,-6.56,7,stable,75.7,10,0,0.0053,declining GTV,🟢 Low Risk
+partner_300,LATAM,Tech,Silver,32.62,9,stable,77.0,38,0,0.0052,engagement decline,🟢 Low Risk
+partner_663,EMEA,Services,Bronze,31.43,8,stable,52.9,38,0,0.0051,engagement decline,🟢 Low Risk
+partner_172,NA,Manufacturing,Bronze,4.07,7,improving,76.8,30,0,0.005,engagement decline,🟢 Low Risk
+partner_872,EMEA,Tech,Bronze,19.12,8,improving,59.7,32,0,0.005,engagement decline,🟢 Low Risk
+partner_780,APAC,Tech,Bronze,-2.44,9,improving,86.9,24,0,0.0049,engagement decline,🟢 Low Risk
+partner_257,APAC,Services,Gold,-1.46,7,improving,63.9,0,0,0.0047,engagement decline,🟢 Low Risk
+partner_447,APAC,Services,Bronze,11.36,8,stable,48.8,7,0,0.0047,engagement decline,🟢 Low Risk
+partner_442,EMEA,Retail,Bronze,6.31,8,improving,69.5,31,0,0.0046,engagement decline,🟢 Low Risk
+partner_264,EMEA,Services,Bronze,14.12,8,stable,50.0,0,0,0.0046,engagement decline,🟢 Low Risk
+partner_352,EMEA,Services,Gold,19.81,7,stable,74.4,43,0,0.0046,engagement decline,🟢 Low Risk
+partner_895,LATAM,Tech,Gold,-23.1,9,improving,74.5,41,0,0.0045,declining GTV,🟢 Low Risk
+partner_914,APAC,Tech,Silver,18.49,8,improving,76.6,29,0,0.0045,engagement decline,🟢 Low Risk
+partner_891,NA,Retail,Bronze,-23.76,9,stable,45.6,12,0,0.0045,declining GTV,🟢 Low Risk
+partner_636,EMEA,Tech,Bronze,11.14,9,improving,47.6,31,0,0.0045,engagement decline,🟢 Low Risk
+partner_918,EMEA,Manufacturing,Gold,4.21,8,improving,60.8,32,0,0.0045,engagement decline,🟢 Low Risk
+partner_157,EMEA,Retail,Bronze,-2.75,10,improving,51.3,41,0,0.0044,engagement decline,🟢 Low Risk
+partner_45,APAC,Retail,Gold,-3.55,8,improving,62.2,2,0,0.0044,engagement decline,🟢 Low Risk
+partner_703,EMEA,Tech,Bronze,-4.15,8,improving,43.2,0,0,0.0043,engagement decline,🟢 Low Risk
+partner_161,EMEA,Retail,Bronze,-23.12,8,improving,100.0,12,1,0.0042,"declining GTV, competitor relationship",🟢 Low Risk
+partner_560,NA,Services,Bronze,-4.43,7,stable,80.2,41,0,0.0042,engagement decline,🟢 Low Risk
+partner_916,APAC,Retail,Bronze,-10.62,9,improving,84.4,42,0,0.0041,declining GTV,🟢 Low Risk
+partner_418,LATAM,Tech,Silver,-8.51,8,improving,77.2,9,0,0.0041,declining GTV,🟢 Low Risk
+partner_432,LATAM,Manufacturing,Silver,1.82,10,improving,78.8,36,0,0.0041,engagement decline,🟢 Low Risk
+partner_105,LATAM,Retail,Silver,12.9,10,stable,64.1,22,0,0.004,engagement decline,🟢 Low Risk
+partner_435,EMEA,Retail,Silver,4.35,10,improving,84.5,47,0,0.004,engagement decline,🟢 Low Risk
+partner_413,EMEA,Services,Bronze,24.45,8,improving,75.7,33,0,0.0039,engagement decline,🟢 Low Risk
+partner_11,NA,Manufacturing,Bronze,8.84,8,improving,70.3,22,0,0.0039,engagement decline,🟢 Low Risk
+partner_608,EMEA,Retail,Bronze,-10.0,7,improving,72.6,21,0,0.0039,declining GTV,🟢 Low Risk
+partner_923,LATAM,Tech,Bronze,9.21,9,stable,66.3,25,0,0.0038,engagement decline,🟢 Low Risk
+partner_745,NA,Manufacturing,Bronze,-11.97,9,improving,76.1,31,0,0.0038,declining GTV,🟢 Low Risk
+partner_359,NA,Manufacturing,Gold,-15.1,7,stable,66.3,22,0,0.0038,declining GTV,🟢 Low Risk
+partner_474,EMEA,Tech,Silver,21.01,10,declining,63.6,25,0,0.0036,weak/declining NPS,🟢 Low Risk
+partner_948,APAC,Services,Silver,-12.18,9,declining,78.9,7,0,0.0035,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_304,NA,Retail,Bronze,3.87,7,improving,86.0,39,0,0.0035,engagement decline,🟢 Low Risk
+partner_509,NA,Retail,Silver,13.59,10,improving,80.4,40,0,0.0035,engagement decline,🟢 Low Risk
+partner_839,NA,Services,Bronze,-4.31,10,improving,70.6,56,0,0.0035,engagement decline,🟢 Low Risk
+partner_693,EMEA,Retail,Gold,2.95,9,declining,69.0,17,0,0.0033,weak/declining NPS,🟢 Low Risk
+partner_868,LATAM,Retail,Silver,0.07,10,stable,85.2,0,0,0.0032,engagement decline,🟢 Low Risk
+partner_144,NA,Services,Silver,4.48,9,improving,57.1,0,0,0.0031,engagement decline,🟢 Low Risk
+partner_771,EMEA,Manufacturing,Bronze,18.17,8,improving,86.0,65,0,0.0031,long contact gap,🟢 Low Risk
+partner_345,LATAM,Services,Silver,29.32,7,improving,82.7,20,0,0.0031,engagement decline,🟢 Low Risk
+partner_361,APAC,Manufacturing,Silver,-9.02,8,improving,83.1,0,0,0.003,declining GTV,🟢 Low Risk
+partner_470,NA,Retail,Bronze,12.92,6,stable,88.3,15,0,0.003,engagement decline,🟢 Low Risk
+partner_737,EMEA,Services,Bronze,-18.47,7,improving,61.6,0,0,0.003,declining GTV,🟢 Low Risk
+partner_727,EMEA,Tech,Silver,3.44,10,stable,79.4,20,1,0.0029,competitor relationship,🟢 Low Risk
+partner_91,EMEA,Retail,Bronze,11.98,7,stable,94.1,29,0,0.0029,engagement decline,🟢 Low Risk
+partner_574,LATAM,Services,Silver,22.81,10,stable,60.9,29,0,0.0029,engagement decline,🟢 Low Risk
+partner_166,NA,Services,Bronze,-13.59,7,improving,79.5,32,0,0.0028,declining GTV,🟢 Low Risk
+partner_869,EMEA,Tech,Gold,7.8,10,stable,48.7,42,0,0.0028,engagement decline,🟢 Low Risk
+partner_384,NA,Services,Bronze,-6.64,9,improving,75.6,47,0,0.0028,declining GTV,🟢 Low Risk
+partner_475,EMEA,Tech,Bronze,20.48,7,improving,98.1,57,0,0.0028,engagement decline,🟢 Low Risk
+partner_669,EMEA,Retail,Silver,-2.12,8,improving,89.0,33,0,0.0027,engagement decline,🟢 Low Risk
+partner_165,NA,Retail,Gold,-11.26,10,improving,67.5,31,1,0.0027,"declining GTV, competitor relationship",🟢 Low Risk
+partner_210,NA,Tech,Bronze,-1.61,10,stable,45.9,0,0,0.0027,engagement decline,🟢 Low Risk
+partner_880,NA,Manufacturing,Bronze,11.67,10,improving,76.6,42,0,0.0027,engagement decline,🟢 Low Risk
+partner_774,APAC,Services,Bronze,7.56,7,stable,65.2,9,0,0.0025,engagement decline,🟢 Low Risk
+partner_687,NA,Tech,Bronze,9.36,7,stable,66.7,18,0,0.0024,engagement decline,🟢 Low Risk
+partner_539,EMEA,Services,Bronze,-21.34,9,stable,80.3,57,0,0.0024,declining GTV,🟢 Low Risk
+partner_699,LATAM,Services,Bronze,6.73,8,improving,83.3,0,0,0.0024,engagement decline,🟢 Low Risk
+partner_657,APAC,Retail,Bronze,4.43,9,improving,92.8,38,0,0.0023,engagement decline,🟢 Low Risk
+partner_407,EMEA,Services,Silver,-12.14,8,improving,63.2,4,0,0.0023,declining GTV,🟢 Low Risk
+partner_610,NA,Tech,Bronze,-14.79,8,improving,68.0,0,0,0.0023,declining GTV,🟢 Low Risk
+partner_930,LATAM,Tech,Silver,7.67,9,improving,82.6,36,0,0.0022,engagement decline,🟢 Low Risk
+partner_106,LATAM,Services,Silver,10.54,8,improving,85.4,0,0,0.0022,engagement decline,🟢 Low Risk
+partner_989,NA,Services,Bronze,13.52,8,stable,68.7,4,0,0.0022,engagement decline,🟢 Low Risk
+partner_606,LATAM,Retail,Bronze,-9.06,9,improving,89.0,23,0,0.0022,declining GTV,🟢 Low Risk
+partner_909,EMEA,Services,Gold,-24.37,8,stable,66.4,22,0,0.0022,declining GTV,🟢 Low Risk
+partner_30,LATAM,Tech,Silver,0.69,9,stable,88.3,26,0,0.0022,engagement decline,🟢 Low Risk
+partner_996,NA,Services,Bronze,-6.25,7,stable,94.4,45,0,0.0021,declining GTV,🟢 Low Risk
+partner_241,APAC,Services,Bronze,15.19,7,stable,76.3,20,0,0.0021,engagement decline,🟢 Low Risk
+partner_279,APAC,Services,Gold,-2.94,7,stable,74.2,14,0,0.0021,engagement decline,🟢 Low Risk
+partner_792,NA,Tech,Bronze,28.76,7,stable,91.5,23,0,0.002,engagement decline,🟢 Low Risk
+partner_492,LATAM,Services,Bronze,-15.2,10,improving,81.5,0,1,0.002,"declining GTV, competitor relationship",🟢 Low Risk
+partner_529,LATAM,Retail,Silver,-0.46,10,improving,100.0,23,0,0.002,engagement decline,🟢 Low Risk
+partner_649,LATAM,Services,Silver,-15.08,9,improving,60.5,0,0,0.002,declining GTV,🟢 Low Risk
+partner_734,NA,Retail,Bronze,-13.67,8,declining,92.5,0,0,0.0019,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_448,LATAM,Tech,Bronze,23.12,10,declining,59.0,9,0,0.0019,weak/declining NPS,🟢 Low Risk
+partner_226,APAC,Services,Bronze,-6.44,10,stable,100.0,45,0,0.0019,declining GTV,🟢 Low Risk
+partner_99,EMEA,Services,Bronze,22.63,9,stable,90.2,28,1,0.0019,competitor relationship,🟢 Low Risk
+partner_937,APAC,Tech,Bronze,3.05,10,improving,63.3,34,0,0.0019,engagement decline,🟢 Low Risk
+partner_968,EMEA,Services,Bronze,-6.42,10,improving,65.3,32,0,0.0019,declining GTV,🟢 Low Risk
+partner_199,EMEA,Retail,Bronze,5.19,8,improving,97.4,39,0,0.0019,engagement decline,🟢 Low Risk
+partner_696,NA,Tech,Bronze,-4.81,9,declining,72.6,1,0,0.0019,weak/declining NPS,🟢 Low Risk
+partner_481,NA,Tech,Silver,28.76,10,stable,70.4,10,1,0.0019,competitor relationship,🟢 Low Risk
+partner_374,NA,Services,Bronze,0.06,5,stable,93.7,4,0,0.0018,weak/declining NPS,🟢 Low Risk
+partner_47,NA,Retail,Bronze,10.39,8,improving,69.4,0,0,0.0018,engagement decline,🟢 Low Risk
+partner_227,EMEA,Tech,Silver,31.74,10,stable,66.6,18,0,0.0018,engagement decline,🟢 Low Risk
+partner_308,LATAM,Manufacturing,Bronze,-2.5,10,improving,87.8,24,0,0.0017,engagement decline,🟢 Low Risk
+partner_235,APAC,Retail,Silver,6.5,8,improving,79.9,0,0,0.0017,engagement decline,🟢 Low Risk
+partner_628,EMEA,Retail,Bronze,-0.77,10,stable,76.7,0,0,0.0016,engagement decline,🟢 Low Risk
+partner_819,LATAM,Tech,Bronze,43.38,10,stable,66.9,0,0,0.0016,engagement decline,🟢 Low Risk
+partner_586,LATAM,Services,Bronze,47.07,9,improving,90.4,32,0,0.0016,engagement decline,🟢 Low Risk
+partner_312,NA,Services,Bronze,9.56,10,stable,75.0,35,0,0.0016,engagement decline,🟢 Low Risk
+partner_31,LATAM,Manufacturing,Bronze,33.2,9,improving,71.0,13,0,0.0015,engagement decline,🟢 Low Risk
+partner_329,LATAM,Retail,Silver,13.2,9,improving,85.1,0,0,0.0015,engagement decline,🟢 Low Risk
+partner_740,NA,Services,Silver,-5.58,9,stable,70.9,18,0,0.0015,declining GTV,🟢 Low Risk
+partner_823,EMEA,Tech,Bronze,4.13,8,improving,83.8,16,0,0.0015,engagement decline,🟢 Low Risk
+partner_542,NA,Retail,Bronze,50.77,9,stable,70.4,29,0,0.0015,engagement decline,🟢 Low Risk
+partner_736,LATAM,Manufacturing,Bronze,3.68,10,improving,66.8,0,0,0.0015,engagement decline,🟢 Low Risk
+partner_865,EMEA,Manufacturing,Bronze,-0.11,9,stable,88.3,26,0,0.0015,engagement decline,🟢 Low Risk
+partner_401,NA,Tech,Silver,7.85,10,stable,74.7,25,0,0.0015,engagement decline,🟢 Low Risk
+partner_261,EMEA,Retail,Silver,4.72,8,improving,96.6,15,0,0.0015,engagement decline,🟢 Low Risk
+partner_655,APAC,Services,Bronze,6.91,9,improving,85.4,27,1,0.0015,competitor relationship,🟢 Low Risk
+partner_833,NA,Tech,Bronze,42.18,10,stable,73.8,55,0,0.0014,engagement decline,🟢 Low Risk
+partner_200,NA,Manufacturing,Silver,-8.74,10,stable,72.8,1,0,0.0014,declining GTV,🟢 Low Risk
+partner_700,EMEA,Manufacturing,Gold,18.14,9,improving,91.9,45,0,0.0014,engagement decline,🟢 Low Risk
+partner_1000,EMEA,Tech,Bronze,14.91,10,stable,80.9,36,0,0.0014,engagement decline,🟢 Low Risk
+partner_782,APAC,Services,Bronze,-4.61,6,improving,88.6,14,0,0.0014,engagement decline,🟢 Low Risk
+partner_382,APAC,Retail,Bronze,-1.63,10,improving,82.2,23,0,0.0014,engagement decline,🟢 Low Risk
+partner_592,NA,Retail,Gold,40.41,9,improving,77.3,27,0,0.0014,engagement decline,🟢 Low Risk
+partner_967,APAC,Manufacturing,Bronze,5.55,9,stable,85.0,0,0,0.0013,engagement decline,🟢 Low Risk
+partner_704,APAC,Manufacturing,Silver,-8.64,10,improving,67.5,0,0,0.0013,declining GTV,🟢 Low Risk
+partner_826,EMEA,Retail,Silver,6.5,9,stable,95.8,0,0,0.0013,engagement decline,🟢 Low Risk
+partner_419,EMEA,Services,Bronze,18.94,10,stable,63.9,39,0,0.0013,engagement decline,🟢 Low Risk
+partner_381,NA,Tech,Silver,-1.96,10,stable,68.2,5,0,0.0013,engagement decline,🟢 Low Risk
+partner_677,APAC,Manufacturing,Bronze,-7.79,10,stable,91.6,33,0,0.0012,declining GTV,🟢 Low Risk
+partner_118,LATAM,Services,Bronze,3.44,9,declining,75.4,0,0,0.0012,weak/declining NPS,🟢 Low Risk
+partner_236,APAC,Retail,Gold,-1.94,10,stable,83.8,28,0,0.0012,engagement decline,🟢 Low Risk
+partner_267,EMEA,Retail,Silver,-1.12,10,stable,99.3,0,0,0.0012,engagement decline,🟢 Low Risk
+partner_715,LATAM,Tech,Gold,0.81,10,stable,88.6,5,0,0.0011,engagement decline,🟢 Low Risk
+partner_827,NA,Tech,Bronze,-1.37,9,improving,72.1,7,0,0.0011,engagement decline,🟢 Low Risk
+partner_874,NA,Services,Bronze,0.26,9,improving,70.8,20,0,0.0011,engagement decline,🟢 Low Risk
+partner_239,EMEA,Retail,Bronze,24.54,8,stable,85.0,0,0,0.0011,engagement decline,🟢 Low Risk
+partner_759,EMEA,Services,Silver,35.25,9,improving,60.6,0,0,0.0011,engagement decline,🟢 Low Risk
+partner_633,EMEA,Manufacturing,Gold,-8.65,9,stable,67.3,20,0,0.0011,declining GTV,🟢 Low Risk
+partner_922,APAC,Tech,Bronze,29.85,9,improving,72.9,0,1,0.0011,competitor relationship,🟢 Low Risk
+partner_269,EMEA,Tech,Silver,-5.52,10,improving,81.2,23,0,0.0011,declining GTV,🟢 Low Risk
+partner_957,LATAM,Manufacturing,Bronze,28.41,9,improving,65.5,0,0,0.0011,engagement decline,🟢 Low Risk
+partner_232,NA,Manufacturing,Silver,-14.4,8,improving,77.5,0,0,0.0011,declining GTV,🟢 Low Risk
+partner_272,EMEA,Tech,Silver,-25.18,10,declining,75.9,0,0,0.0011,"declining GTV, weak/declining NPS",🟢 Low Risk
+partner_271,EMEA,Services,Silver,-24.25,8,improving,75.8,1,0,0.001,declining GTV,🟢 Low Risk
+partner_708,LATAM,Tech,Bronze,8.07,10,improving,76.8,31,0,0.001,engagement decline,🟢 Low Risk
+partner_965,APAC,Manufacturing,Bronze,13.62,8,improving,82.6,10,0,0.001,engagement decline,🟢 Low Risk
+partner_131,EMEA,Services,Bronze,16.43,7,stable,86.1,0,0,0.001,engagement decline,🟢 Low Risk
+partner_67,NA,Tech,Silver,57.81,9,declining,87.2,1,0,0.001,weak/declining NPS,🟢 Low Risk
+partner_728,EMEA,Services,Bronze,17.05,8,improving,84.6,28,0,0.001,engagement decline,🟢 Low Risk
+partner_731,NA,Services,Bronze,24.22,7,improving,86.0,20,0,0.001,engagement decline,🟢 Low Risk
+partner_12,APAC,Manufacturing,Bronze,1.7,9,improving,81.7,15,0,0.001,engagement decline,🟢 Low Risk
+partner_370,APAC,Tech,Silver,-3.9,10,declining,100.0,1,0,0.001,weak/declining NPS,🟢 Low Risk
+partner_766,EMEA,Retail,Gold,12.03,10,stable,82.3,33,0,0.001,engagement decline,🟢 Low Risk
+partner_747,NA,Manufacturing,Bronze,26.11,10,improving,64.1,3,0,0.001,engagement decline,🟢 Low Risk
+partner_907,NA,Tech,Gold,18.79,10,declining,68.2,19,0,0.0009,weak/declining NPS,🟢 Low Risk
+partner_10,NA,Tech,Silver,0.86,10,improving,79.2,9,0,0.0009,engagement decline,🟢 Low Risk
+partner_260,NA,Services,Bronze,13.76,8,stable,91.0,9,0,0.0009,engagement decline,🟢 Low Risk
+partner_921,EMEA,Tech,Gold,-10.58,9,stable,62.5,0,0,0.0009,declining GTV,🟢 Low Risk
+partner_757,NA,Retail,Gold,23.34,10,stable,64.6,0,0,0.0009,engagement decline,🟢 Low Risk
+partner_275,LATAM,Retail,Gold,7.78,10,stable,94.6,31,0,0.0008,engagement decline,🟢 Low Risk
+partner_517,NA,Retail,Bronze,2.35,10,improving,77.2,30,0,0.0008,engagement decline,🟢 Low Risk
+partner_691,EMEA,Services,Gold,7.46,10,stable,82.9,59,0,0.0008,engagement decline,🟢 Low Risk
+partner_876,APAC,Services,Bronze,-3.9,9,improving,89.6,27,0,0.0008,engagement decline,🟢 Low Risk
+partner_769,EMEA,Retail,Silver,12.82,8,improving,100.0,3,0,0.0008,engagement decline,🟢 Low Risk
+partner_218,EMEA,Manufacturing,Gold,1.41,9,improving,79.8,28,0,0.0008,engagement decline,🟢 Low Risk
+partner_752,NA,Retail,Silver,30.63,9,improving,96.6,33,0,0.0008,engagement decline,🟢 Low Risk
+partner_974,APAC,Tech,Gold,18.02,9,improving,60.6,0,0,0.0008,engagement decline,🟢 Low Risk
+partner_92,LATAM,Manufacturing,Gold,-18.5,10,improving,89.5,13,0,0.0008,declining GTV,🟢 Low Risk
+partner_863,LATAM,Services,Bronze,-3.66,9,declining,95.0,0,0,0.0007,weak/declining NPS,🟢 Low Risk
+partner_748,NA,Tech,Bronze,23.2,9,improving,91.4,27,0,0.0007,engagement decline,🟢 Low Risk
+partner_917,EMEA,Manufacturing,Bronze,-2.93,9,improving,85.4,0,0,0.0007,engagement decline,🟢 Low Risk
+partner_507,NA,Manufacturing,Gold,-8.79,9,improving,64.7,13,0,0.0007,declining GTV,🟢 Low Risk
+partner_665,NA,Services,Bronze,18.95,10,improving,100.0,27,1,0.0007,competitor relationship,🟢 Low Risk
+partner_4,LATAM,Retail,Silver,9.09,10,stable,100.0,0,0,0.0007,engagement decline,🟢 Low Risk
+partner_164,EMEA,Retail,Bronze,-3.62,10,improving,100.0,28,0,0.0007,engagement decline,🟢 Low Risk
+partner_255,EMEA,Retail,Gold,5.74,10,stable,88.5,0,0,0.0006,engagement decline,🟢 Low Risk
+partner_988,EMEA,Manufacturing,Silver,11.22,8,improving,100.0,0,0,0.0006,engagement decline,🟢 Low Risk
+partner_436,EMEA,Services,Gold,10.35,9,stable,92.6,13,0,0.0006,engagement decline,🟢 Low Risk
+partner_601,NA,Services,Bronze,6.35,9,improving,66.5,11,0,0.0006,engagement decline,🟢 Low Risk
+partner_801,LATAM,Manufacturing,Gold,-4.19,10,improving,79.7,7,0,0.0006,engagement decline,🟢 Low Risk
+partner_682,EMEA,Services,Gold,8.45,8,improving,76.6,0,0,0.0006,engagement decline,🟢 Low Risk
+partner_689,LATAM,Manufacturing,Bronze,-1.56,10,stable,100.0,22,0,0.0006,engagement decline,🟢 Low Risk
+partner_211,LATAM,Services,Gold,-1.47,10,declining,88.6,0,0,0.0006,weak/declining NPS,🟢 Low Risk
+partner_595,EMEA,Services,Bronze,8.66,10,improving,71.8,25,0,0.0005,engagement decline,🟢 Low Risk
+partner_301,LATAM,Retail,Gold,13.89,9,improving,100.0,11,0,0.0005,engagement decline,🟢 Low Risk
+partner_26,EMEA,Tech,Bronze,0.68,10,stable,100.0,15,0,0.0005,engagement decline,🟢 Low Risk
+partner_50,EMEA,Retail,Bronze,14.07,10,stable,100.0,0,0,0.0005,engagement decline,🟢 Low Risk
+partner_437,EMEA,Retail,Silver,-3.67,10,improving,100.0,14,0,0.0005,engagement decline,🟢 Low Risk
+partner_786,NA,Services,Silver,23.55,9,improving,86.0,20,0,0.0005,engagement decline,🟢 Low Risk
+partner_807,LATAM,Retail,Bronze,-10.9,10,improving,100.0,0,0,0.0005,declining GTV,🟢 Low Risk
+partner_100,APAC,Retail,Bronze,1.62,9,improving,100.0,0,0,0.0005,engagement decline,🟢 Low Risk
+partner_933,NA,Services,Silver,-0.45,9,improving,82.8,6,0,0.0005,engagement decline,🟢 Low Risk
+partner_582,NA,Tech,Silver,-2.26,10,stable,94.0,0,0,0.0005,engagement decline,🟢 Low Risk
+partner_841,EMEA,Retail,Silver,14.41,9,improving,98.3,0,0,0.0005,engagement decline,🟢 Low Risk
+partner_486,NA,Retail,Bronze,13.74,10,stable,78.1,4,0,0.0004,engagement decline,🟢 Low Risk
+partner_222,NA,Retail,Bronze,-8.96,10,improving,85.7,4,0,0.0004,declining GTV,🟢 Low Risk
+partner_63,NA,Retail,Silver,-20.67,10,improving,97.8,0,0,0.0003,declining GTV,🟢 Low Risk
+partner_398,EMEA,Services,Bronze,-3.31,9,improving,88.9,2,0,0.0003,engagement decline,🟢 Low Risk
+partner_939,APAC,Retail,Bronze,-7.47,10,improving,100.0,0,0,0.0003,declining GTV,🟢 Low Risk
+partner_206,EMEA,Retail,Silver,-0.52,10,improving,100.0,0,0,0.0003,engagement decline,🟢 Low Risk
+partner_666,LATAM,Services,Silver,-0.03,10,improving,90.5,0,0,0.0003,engagement decline,🟢 Low Risk
+partner_406,APAC,Retail,Bronze,-12.23,10,improving,100.0,0,0,0.0003,declining GTV,🟢 Low Risk
+partner_496,NA,Manufacturing,Silver,11.57,10,improving,100.0,17,0,0.0003,engagement decline,🟢 Low Risk
+partner_950,NA,Services,Gold,-7.43,10,improving,77.8,0,0,0.0003,declining GTV,🟢 Low Risk
+partner_884,NA,Manufacturing,Bronze,11.85,10,improving,75.3,0,0,0.0003,engagement decline,🟢 Low Risk
+partner_494,NA,Services,Gold,-8.41,10,improving,100.0,1,1,0.0002,"declining GTV, competitor relationship",🟢 Low Risk
+partner_503,APAC,Tech,Gold,19.96,10,stable,90.5,0,0,0.0002,engagement decline,🟢 Low Risk
+partner_635,EMEA,Services,Silver,-15.32,10,improving,100.0,0,0,0.0002,declining GTV,🟢 Low Risk
+partner_409,EMEA,Services,Bronze,-10.52,10,improving,93.0,0,0,0.0002,declining GTV,🟢 Low Risk
+partner_738,NA,Retail,Silver,-19.76,10,improving,100.0,0,0,0.0002,declining GTV,🟢 Low Risk
+partner_167,APAC,Services,Gold,29.99,10,improving,79.9,0,0,0.0002,engagement decline,🟢 Low Risk
+partner_203,NA,Services,Gold,16.39,9,stable,84.9,0,0,0.0002,engagement decline,🟢 Low Risk
+partner_424,EMEA,Tech,Bronze,10.34,10,improving,100.0,3,0,0.0002,engagement decline,🟢 Low Risk
+partner_568,EMEA,Retail,Bronze,7.77,10,improving,98.6,0,0,0.0002,engagement decline,🟢 Low Risk
+partner_399,NA,Manufacturing,Bronze,-3.4,10,stable,100.0,0,0,0.0002,engagement decline,🟢 Low Risk
+partner_971,EMEA,Tech,Bronze,11.17,10,improving,100.0,0,0,0.0001,engagement decline,🟢 Low Risk

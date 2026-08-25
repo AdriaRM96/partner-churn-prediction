@@ -4,3 +4,5 @@ scikit-learn
 matplotlib
 seaborn
 statsmodels
+shap
+lifelines
